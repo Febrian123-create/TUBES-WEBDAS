@@ -1,0 +1,42 @@
+[
+    {
+        "nama" : "Arancini",
+        "deskripsi" : "Bola nasi goreng berlapis tepung roti emas, diisi dengan saus daging, keju mozzarella meleleh, atau kacang polong. Renyah di luar, lembut dan gurih di dalam.",
+        "img" : "./tubesimg/antipasti/Arancini.jpg"
+    },
+    {
+        "nama" : "Bruschetta",
+        "deskripsi" : "Irisan roti panggang yang renyah, disajikan dengan topping tomat segar, bawang putih, daun basil, dan siraman minyak zaitun extra virgin — pembuka klasik yang menyegarkan dan menggugah selera.",
+        "img" : "./tubesimg/antipasti/Bruscheta.jpg"
+    },
+    {
+        "nama" : "Caprese Salad",
+        "deskripsi" : "Paduan sempurna antara irisan tomat segar, mozzarella lembut, daun basil harum, dan tetesan minyak zaitun berkualitas tinggi. Salad khas Italia ini adalah simbol kesederhanaan yang elegan.",
+        "img" : "./tubesimg/antipasti/caprase salad.jpg"
+    },
+    {
+        "nama" : "Carpaccio",
+        "deskripsi" : "Irisan tipis daging sapi mentah pilihan, disajikan dengan saus lemon, keju parmesan, dan daun arugula. Hidangan yang halus, mewah, dan penuh rasa.",
+        "img" : "./tubesimg/antipasti/Carpaccio.jpg"
+    },
+    {
+        "nama" : "Mozzarella in Carrozza",
+        "deskripsi" : "Potongan roti isi keju mozzarella yang dilapisi tepung, digoreng hingga keemasan. Renyah di luar, lumer dan creamy di dalam — comfort food Italia sejati.",
+        "img" : "./tubesimg/antipasti/Mozzarella in Carrozza.jpg"
+    },
+    {
+        "nama" : "Olive all’Ascolana",
+        "deskripsi" : "Zaitun hijau besar yang diisi dengan daging cincang berbumbu, dilapisi tepung roti, lalu digoreng hingga renyah. Camilan premium dari wilayah Marche.",
+        "img" : "./tubesimg/antipasti/Olive all’Ascolana.jpg"
+    },
+    {
+        "nama" : "Prosciutto e Melone",
+        "deskripsi" : "Perpaduan kontras antara manisnya melon segar dan gurihnya prosciutto diiris tipis. Hidangan ini menghadirkan keseimbangan rasa yang tak tertandingi.",
+        "img" : "./tubesimg/antipasti/Prosciutto e Melone.jpg"
+    },
+    {
+        "nama" : "Suppli",
+        "deskripsi" : "Bola nasi goreng khas Roma dengan isian mozzarella di tengahnya. Saat digigit, kejunya meleleh dan memberikan kejutan yang menggoda.",
+        "img" : "./tubesimg/antipasti/Suppli.jpg"
+    }
+]

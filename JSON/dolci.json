@@ -1,0 +1,42 @@
+[
+    {
+        "nama" : "Tiramisu",
+        "deskripsi" :"Hidangan penutup klasik Italia yang lembut dan elegan, terbuat dari lapisan ladyfinger yang direndam espresso, krim mascarpone, dan taburan kakao. Setiap suapan menyuguhkan keseimbangan sempurna antara pahit, manis, dan creamy.",
+        "img" :"./tubesimg/dolci/tiramisu.jpg"
+    },
+    {
+        "nama" : "Gelato",
+        "deskripsi" :"Es krim khas Italia yang lebih padat dan lembut dibandingkan es krim biasa. Tersedia dalam beragam rasa dari vanila murni hingga pistachio artisan—lebih sedikit udara, lebih banyak rasa.",
+        "img" :"./tubesimg/dolci/gelato.jpg"
+    },
+    {
+        "nama" : "Panna Cotta",
+        "deskripsi" :"Puding susu khas Italia yang lembut dan halus, disajikan dengan saus buah segar atau karamel. Teksturnya kenyal dan lembut di lidah, cocok sebagai penutup yang ringan namun memuaskan.",
+        "img" :"./tubesimg/dolci/pannacotta.jpg"
+    },
+    {
+        "nama" : "Cannoli",
+        "deskripsi" :"Tabung pastri goreng renyah yang diisi krim keju ricotta manis, sering dilengkapi dengan cokelat, pistachio, atau kulit jeruk. Makanan penutup dari Sisilia ini menyatukan tekstur kontras dan rasa autentik.",
+        "img" :"./tubesimg/dolci/cannoli.jpg"
+    },
+    {
+        "nama" : "Biscotti ",
+        "deskripsi" :"Kue kering dua kali panggang dengan kacang almond, cocok dicelupkan ke kopi atau anggur manis (vin santo). Renyah, tahan lama, dan sangat khas Italia Tengah.",
+        "img" :"./tubesimg/dolci/biscotti .jpg"
+    },
+    {
+        "nama" : "Panettone",
+        "deskripsi" :"Roti manis bertekstur ringan khas Milan yang diisi dengan buah kering dan kismis. Umumnya disajikan saat Natal, tapi kelezatannya membuatnya layak dinikmati sepanjang tahun.",
+        "img" :"./tubesimg/dolci/panettone.jpg"
+    },
+    {
+        "nama" : "Torta della Nonna",
+        "deskripsi" :"Kue tart klasik berisi custard vanila lembut, ditutup dengan lapisan kue renyah dan taburan kacang pinus. Simbol cinta dan resep keluarga khas Italia.",
+        "img" :"./tubesimg/dolci/tortadellanonna.jpg"
+    },
+    {
+        "nama" : "Sfogliatella",
+        "deskripsi" :"Kue berlapis tipis menyerupai kulit kerang, diisi semolina manis, ricotta, dan aroma citrus. Cita rasa khas Napoli yang kaya tekstur dan kompleks dalam rasa.",
+        "img" :"./tubesimg/dolci/sfogliatella.jpg"
+    }
+]

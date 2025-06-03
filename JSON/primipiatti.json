@@ -1,0 +1,42 @@
+[
+    {
+       "nama" : "Spaghetti alla Carbonara",
+       "deskripsi" : "Pasta spaghetti yang dimasak al dente, dilapisi saus krim telur, keju pecorino, lada hitam, dan pancetta renyah. Rasa gurih autentik dari Roma dalam setiap suapan.",
+       "img" : "./tubesimg/primipiatti/Carbonara.jpg" 
+    },
+    {
+       "nama" : "Lasagna alla Bolognese",
+       "deskripsi" : "Lapis demi lapis pasta lembut, saus daging sapi kental, béchamel, dan keju parmesan panggang hingga keemasan. Sajian klasik yang kaya rasa dan memuaskan.",
+       "img" : "./tubesimg/primipiatti/Lasagna.jpg" 
+    },
+    {
+       "nama" : "Fettuccine Alfredo",
+       "deskripsi" : "Fettuccine segar berpadu dengan saus krim lembut berbasis mentega dan keju parmesan. Hidangan yang creamy, halus, dan meleleh di mulut.",
+       "img" : "./tubesimg/primipiatti/Fettuccine Alfredo.jpg" 
+    },
+    {
+       "nama" : "Risotto ai Funghi",
+       "deskripsi" : "Nasi arborio dimasak perlahan dalam kaldu hingga creamy, dipadukan dengan jamur porcini aromatik dan sentuhan keju parmesan. Aroma bumi dalam sajian elegan.",
+       "img" : "./tubesimg/primipiatti/Risotto ai Funghi.jpg" 
+    },
+    {
+       "nama" : "Penne all’Arrabbiata",
+       "deskripsi" : "Pasta penne dalam saus tomat pedas yang menggigit, dengan bawang putih dan cabai merah kering. Sempurna untuk pecinta rasa tajam dan berani.",
+       "img" : "./tubesimg/primipiatti/Penne all’Arrabbiata.jpg" 
+    },
+    {
+       "nama" : "Tortellini in Brodo",
+       "deskripsi" : "Tortellini mini berisi daging atau keju, disajikan dalam kaldu hangat yang jernih dan gurih. Hidangan tradisional yang menghangatkan jiwa dan raga.",
+       "img" : "./tubesimg/primipiatti/tortellini.jpg" 
+    },
+    {
+       "nama" : "Pasta Pesto Genovese",
+       "deskripsi" : "Pasta pilihan dilumuri saus pesto segar dari basil, bawang putih, keju pecorino, dan kacang pinus, dihaluskan dengan minyak zaitun. Aroma Mediterania yang tak terlupakan.",
+       "img" : "./tubesimg/primipiatti/Pasta Pesto.jpg" 
+    },
+    {
+       "nama" : "Gnocchi al Pomodoro",
+       "deskripsi" : "Pasta kentang empuk berbentuk kecil, diselimuti saus tomat segar dengan sentuhan daun basil. Teksturnya lembut, rasanya bersih dan menenangkan.",
+       "img" : "./tubesimg/primipiatti/Gnocchi al Pomodoro.jpg" 
+    }
+]

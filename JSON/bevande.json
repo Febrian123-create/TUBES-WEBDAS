@@ -1,0 +1,42 @@
+[
+    {
+        "nama" : "Espresso",
+        "deskripsi" :"Inti dari budaya kopi Italia—minuman hitam pekat yang diseduh cepat dan disajikan dalam cangkir kecil. Kaya, pahit, dan penuh karakter, espresso adalah fondasi dari hampir semua kopi Italia.",
+        "img" : "./tubesimg/bevande/Espresso.jpg"
+    },
+    {
+        "nama" : "Caffè Macchiato",
+        "deskripsi" :"Espresso kuat dengan sedikit (noda) susu panas berbusa. Perpaduan ringkas antara intensitas dan kelembutan, cocok untuk penikmat kopi sejati yang menginginkan sedikit kelembutan.",
+        "img" : "./tubesimg/bevande/Caffè Macchiato.jpg"
+    },
+    {
+        "nama" : "Cappuccino",
+        "deskripsi" :"Campuran seimbang antara espresso, susu panas, dan busa tebal di atasnya. Biasanya dinikmati pagi hari sebagai ritual sarapan ala Italia. Lembut, hangat, dan memanjakan.",
+        "img" : "./tubesimg/bevande/Cappuccino.jpg"
+    },
+    {
+        "nama" : "Limoncello",
+        "deskripsi" :"Minuman keras manis berbahan dasar kulit lemon dari Pantai Amalfi. Dingin, cerah, dan menyegarkan—sering disajikan sebagai digestif setelah makan malam.",
+        "img" : "./tubesimg/bevande/Limoncello.jpg"
+    },
+    {
+        "nama" : "Prosecco",
+        "deskripsi" :"Anggur putih bersoda yang ringan dan elegan, berasal dari wilayah Veneto. Sering digunakan sebagai penyambut tamu atau dasar dalam koktail. Alternatif yang menyegarkan untuk champagne.",
+        "img" : "./tubesimg/bevande/Prosecco.jpg"
+    },
+    {
+        "nama" : "Aperol Spritz",
+        "deskripsi" :"Koktail oranye cerah yang memadukan Aperol, prosecco, dan soda air. Rasanya ringan, sedikit pahit, dan menyegarkan—favorit di sore musim panas Italia.",
+        "img" : "./tubesimg/bevande/Aperol Spritz.jpg"
+    },
+    {
+        "nama" : "Grappa",
+        "deskripsi" :"Minuman keras hasil distilasi ampas anggur setelah pembuatan wine. Kuat, beraroma tajam, dan sering disajikan sebagai digestif yang membangkitkan semangat.",
+        "img" : "./tubesimg/bevande/Grappa.jpg"
+    },
+    {
+        "nama" : "Cioccolata Calda",
+        "deskripsi" :"Cokelat panas ala Italia yang kental, pekat, dan creamy. Lebih menyerupai puding cair daripada minuman, cocok untuk pencinta cokelat sejati.",
+        "img" : "./tubesimg/bevande/Cioccolata Calda.jpg"
+    }
+]
