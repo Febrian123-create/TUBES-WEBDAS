@@ -20,6 +20,9 @@
         "img" : "./tubesimg/bevande/Limoncello.jpg"
     },
     {
+        "img":"italia.jpg"
+    },
+    {
         "nama" : "Prosecco",
         "deskripsi" :"Anggur putih bersoda yang ringan dan elegan, berasal dari wilayah Veneto. Sering digunakan sebagai penyambut tamu atau dasar dalam koktail. Alternatif yang menyegarkan untuk champagne.",
         "img" : "./tubesimg/bevande/Prosecco.jpg"
