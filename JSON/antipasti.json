@@ -20,6 +20,9 @@
         "img" : "./tubesimg/antipasti/Carpaccio.jpg"
     },
     {
+        "img":"italia.jpg"
+    },
+    {
         "nama" : "Mozzarella in Carrozza",
         "deskripsi" : "Potongan roti isi keju mozzarella yang dilapisi tepung, digoreng hingga keemasan. Renyah di luar, lumer dan creamy di dalam — comfort food Italia sejati.",
         "img" : "./tubesimg/antipasti/Mozzarella in Carrozza.jpg"

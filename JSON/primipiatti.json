@@ -20,6 +20,9 @@
        "img" : "./tubesimg/primipiatti/Risotto ai Funghi.jpg" 
     },
     {
+        "img":"italia.jpg"
+    },
+    {
        "nama" : "Penne all’Arrabbiata",
        "deskripsi" : "Pasta penne dalam saus tomat pedas yang menggigit, dengan bawang putih dan cabai merah kering. Sempurna untuk pecinta rasa tajam dan berani.",
        "img" : "./tubesimg/primipiatti/Penne all’Arrabbiata.jpg" 

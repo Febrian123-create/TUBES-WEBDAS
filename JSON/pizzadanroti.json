@@ -20,6 +20,9 @@
         "img" : "./tubesimg/pizzadanroti/pizzadiavola.jpg"
     },
     {
+        "img":"italia.jpg"
+    },
+    {
         "nama" : "Focaccia Genovese",
         "deskripsi" :"Roti khas Liguria yang tebal dan lembut, dibalur minyak zaitun extra virgin dan ditaburi garam laut. Sering disajikan polos, dengan rosemary, atau bawang karamel untuk kenikmatan maksimal.",
         "img" : "./tubesimg/pizzadanroti/focacciagenovese.jpg"

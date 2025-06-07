@@ -20,6 +20,9 @@
         "img" :"./tubesimg/secondipiatti/Bistecca alla Fiorentina.jpg"
     },
     {
+        "img":"italia.jpg"
+    },
+    {
         "nama" :"Vitello Tonnato",
         "deeskripis" :"Daging sapi muda yang dimasak perlahan, diiris sangat tipis, lalu diselimuti saus tuna, caper, dan mayones ringan. Hidangan dingin ini menawarkan kontras rasa gurih-creamy yang elegan.",
         "img" :"./tubesimg/secondipiatti/Vitello Tonnato.jpg"
