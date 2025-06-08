@@ -23,9 +23,9 @@
         "img":"italia.jpg"
     },
     {
-        "nama" : "Biscotti ",
+        "nama" : "Biscotti",
         "deskripsi" :"Kue kering dua kali panggang dengan kacang almond, cocok dicelupkan ke kopi atau anggur manis (vin santo). Renyah, tahan lama, dan sangat khas Italia Tengah.",
-        "img" :"./tubesimg/dolci/biscotti .jpg"
+        "img" :"./tubesimg/dolci/biscotti.jpg"
     },
     {
         "nama" : "Panettone",
