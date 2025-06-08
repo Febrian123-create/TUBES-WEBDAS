@@ -118,7 +118,7 @@ body, html {
     font-family: 'Miniver';
     font-size: 20px;
     margin-bottom: 10px;
-    color: #d4af37;
+    color: #c9a66b;
 }
 
 .carousel-caption .main-title {
@@ -201,7 +201,7 @@ body {
 .intro-title {
   font-size: 36px;
   font-family: 'Metropolis1920', sans-serif;
-  color: #f5d19b;
+  color: #c9a66b;
   margin: 0 0 15px;
 }
 
@@ -235,7 +235,7 @@ body {
 
 
 .testimonial-carousel {
-  background-color: #0f1a1d;
+  background-color: #0f1616;
   color: #fff;
   padding: 100px 0;
 }
