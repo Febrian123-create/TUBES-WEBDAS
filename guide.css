@@ -19,7 +19,6 @@ li{
     list-style-type:none;
 }
 .hero-content {
-  background: rgba(0, 0, 0, 0.6);
   padding: 40px;
   border-radius: 10px;
 }
@@ -36,9 +35,9 @@ li{
 }
 
 .guide-container {
-  padding: 60px 20px;
-  max-width: 1200px;
   margin: auto;
+  background-color: #0f1616;
+  color: #fff;
 }
 
 .guide-section {
@@ -47,10 +46,14 @@ li{
   gap: 40px;
   margin-bottom: 60px;
   align-items: center;
+    background-color: #000;
+  color: #fff;
 }
 
 .guide-section.reverse {
   flex-direction: row-reverse;
+    background-color: #0f1616;
+  padding:0px;
 }
 
 .guide-img {
@@ -60,10 +63,12 @@ li{
   border-radius: 15px;
   box-shadow: 0 5px 15px rgba(255, 215, 0, 0.2);
   height:400px;
+  margin:40px;
 }
 
 .guide-text {
   flex: 1 1 400px;
+  margin:40px 70px;
 }
 
 .guide-text h2 {
