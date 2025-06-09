@@ -1,0 +1,32 @@
+[
+    {
+        "tipe" : "Antipasti",
+        "nama" : "Bruschetta",
+        "img" : "./tubesimg/antipasti/Bruscheta.jpg"
+    },
+    {
+        "tipe" : "Primi Piatti",
+        "nama" : "Spaghetti alla Carbonara",
+        "img" : "./tubesimg/primipiatti/Carbonara.jpg"
+    },
+    {
+        "tipe" : "Secondi Piatti",
+        "nama" : "Osso Buco",
+        "img" :"./tubesimg/secondipiatti/Osso Buco.jpg"
+    },
+    {
+        "tipe" : "Pizza & Roti",
+        "nama" : "Pizza Margherita",
+        "img" : "./tubesimg/pizzadanroti/pizzamargherita.jpg"
+    },
+    {
+        "tipe" : "Dolci",
+        "nama" : "Tiramisu",
+        "img" :"./tubesimg/dolci/tiramisu.jpg"
+    },
+    {
+        "tipe" : "Bevande",
+        "nama" : "Espresso",
+        "img" : "./tubesimg/bevande/Espresso.jpg"
+    }
+]
