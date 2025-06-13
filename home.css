@@ -8,9 +8,8 @@ body, html {
 }
 .navbar {
     position: fixed;
-    top: 25px;
     width: 100%;
-    background: transparent;
+    background: black;
     z-index: 1000;
     padding: 20px 0;
     display: flex;
