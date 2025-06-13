@@ -1,0 +1,23 @@
+.custom-footer {
+  background-color: #0b1212; 
+  color: #fff;               
+  text-align: center;
+  padding: 40px 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+}
+
+.footer-logo img {
+    margin-top:0px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.footer-links {
+  margin-top: 10px;
+
+}
+.footer-links>svg {
+  margin-right:10px;
+  margin-left:10px;
+}
