@@ -230,7 +230,6 @@ body {
   opacity: 0.5;
 }
 
-
 .testimonial-carousel {
   background-color: #0f1616;
   color: #fff;
@@ -280,10 +279,5 @@ body {
 .testimonial-author {
   font-weight: bold;
   color: #c9a66b;
-}
-
-.testimonial-indicators .indicator-btn.active {
-  background-color: white;
-  opacity: 1;
 }
 
