@@ -363,5 +363,40 @@ body {
   .carousel-inner{
     display:flex;
   }
-
+  
+}
+@media only screen and (min-width: 1800px) {
+  .carousel-inner{
+    display:flex;
+  }
+  .navbar {
+    padding: 40px 0;
+    font-size: 28px;
+}
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #c9a66b;
+    max-width: 600px;
+    padding: 0 20px;
+}
+.small-text {
+    font-size: 35px;
+}
+.carousel-caption .main-title {
+    font-size: 120px;
+}
+.carousel-caption .description {
+    font-size: 20px;
+    color: #fff;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+.view-more-btn {
+    padding: 20px 35px;
+    font-size: 20px;
+}
 }
