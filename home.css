@@ -19,7 +19,11 @@ body, html {
     font-size: 14px;
     font-weight: lighter;
 }
-
+.navbar>img{
+  width:5rem;
+  position:relative;
+  right:92%;
+}
 .navbar .container {
     display: flex;
     justify-content: center;
@@ -280,3 +284,84 @@ body {
   color: #c9a66b;
 }
 
+/* Extra small devices (phones, 600px and down) media besar kecilnya dari W3Schools*/
+@media only screen and (max-width: 600px) {
+  .carousel-inner{
+    display:flex;
+  }
+  .nav-links a {
+    letter-spacing: 0px;
+    font-size:smaller;
+}
+  .carousel-caption .main-title {
+    font-size: smaller;
+}
+  .carousel-caption .main-title {
+    font-size: smaller;
+}
+.view-more-btn {
+    padding: 5px 10px;
+    font-size: 7px;
+}
+.carousel-caption .description {
+    font-size: 8px;
+}
+
+.testimonial-image img {
+    max-width: 80%;
+    margin-left: 0px;
+}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) and (max-width:992px) {
+  .carousel-inner{
+    display:flex;
+  }
+.nav-links a {
+    letter-spacing: 0px;
+    font-size:14px;
+}
+  .carousel-caption .main-title {
+    font-size: 2em;
+}
+
+.view-more-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+}
+.carousel-caption .description {
+    font-size: 1em;
+}
+
+.testimonial-image img {
+    max-width: 80%;
+    margin-left: 0px;
+}
+.intro-layout{
+    flex-direction: column;
+}
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) and (max-width:1199px) {
+    .carousel-inner{
+    display:flex;
+  }
+
+.testimonial-image img {
+    max-width: 80%;
+    margin-left: 0px;
+}
+.intro-layout{
+    flex-direction: column;
+}
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .carousel-inner{
+    display:flex;
+  }
+
+}
