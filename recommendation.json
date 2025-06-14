@@ -5,7 +5,8 @@
     "rating": "Bintang 3 Michelin",
     "deskripsi": "Restoran kelas dunia yang menyajikan makanan Italia klasik modern dari Chef Massimo Bottura.",
     "menurekomendasi": "Lemon Tart",
-    "gambar": "restoran/osteria_francescana.jpg"
+    "gambar": "restoran/osteria_francescana.jpg",
+    "googlemaps": "https://maps.app.goo.gl/XAL5NWhrM9CBV2UR6"
   },
   {
     "nama": "Trattoria da Enzo al 29",
@@ -13,7 +14,8 @@
     "rating": "Trattoria Klasik",
     "deskripsi": "Makanan italia otentik di jantung Trastevere yang terkenal dengan pasta khas Roma.",
     "menurekomendasi": "Carbonara",
-    "gambar": "restoran/da_enzo.jpg"
+    "gambar": "restoran/da_enzo.jpg",
+    "googlemaps": "https://maps.app.goo.gl/sHmzQFGutNQSKDjH9"
   },
   {
     "nama": "Pizzeria Gino Sorbillo",
@@ -21,7 +23,8 @@
     "rating": "Pizzeria Legendaris",
     "deskripsi": "Pusat pizza Neapolitan otentik yang terkenal di dunia.",
     "menurekomendasi": "Pizza Margherita",
-    "gambar": "restoran/gino_sorbillo.jpg"
+    "gambar": "restoran/gino_sorbillo.jpg",
+    "googlemaps": "https://maps.app.goo.gl/g3LcENjNKUAtNWU16"
   },
   {
     "nama": "Da Vittorio",
@@ -29,7 +32,8 @@
     "rating": "Bintang 3 Michelin",
     "deskripsi": "Restoran elegan dengan sajian mewah dan bahan segar dari Italia Utara.",
     "menurekomendasi": "Ravioli",
-    "gambar": "restoran/da_vittorio.jpg"
+    "gambar": "restoran/da_vittorio.jpg",
+    "googlemaps": "https://maps.app.goo.gl/wqgAbKpfeRSX1TQKA"
   },
   {
     "nama": "Il Buco",
@@ -37,7 +41,8 @@
     "rating": "Fine Dining",
     "deskripsi": "Restoran dekat pantai yang menyajikan makanan laut dan pasta khas selatan Italia.",
     "menurekomendasi": "Risotto seafood",
-    "gambar": "restoran/il_buco.jpg"
+    "gambar": "restoran/il_buco.jpg",
+    "googlemaps": "https://maps.app.goo.gl/mTFG6tzGPWWKf4bH6"
   },
   {
     "nama": "La Pergola",
@@ -45,7 +50,8 @@
     "rating": "Bintang 3 Michelin",
     "deskripsi": "Restoran rooftop dengan pemandangan Roma, menawarkan pengalaman makan eksklusif.",
     "menurekomendasi": "Fagottelli carbonara",
-    "gambar": "restoran/la_pergola.jpg"
+    "gambar": "restoran/la_pergola.jpg",
+    "googlemaps": "https://maps.app.goo.gl/fCFjMhVyxcbWfgbd9"
   },
   {
     "nama": "Trattoria Mario",
@@ -53,7 +59,8 @@
     "rating": "Trattoria Lokal",
     "deskripsi": "Tempat makan sederhana favorit warga lokal.",
     "menurekomendasi": "Bistecca alla Fiorentina",
-    "gambar": "restoran/trattoria_mario.jpg"
+    "gambar": "restoran/trattoria_mario.jpg",
+    "googlemaps": "https://maps.app.goo.gl/NHMKAYpcoJZmBTs86"
   },
   {
     "nama": "Locanda Locatelli",
@@ -61,6 +68,7 @@
     "rating": "Restoran Modern",
     "deskripsi": "Restoran dengan sentuhan modern yang menampilkan makanan khas Milan.",
     "menurekomendasi": "Risotto alla Milanese",
-    "gambar": "restoran/locanda_locatelli.jpg"
+    "gambar": "restoran/locanda_locatelli.jpg",
+    "googlemaps": "https://maps.app.goo.gl/tUxCtcVkGf93cSZ47"
   }
 ]
