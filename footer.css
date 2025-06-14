@@ -26,3 +26,15 @@ footer a svg {
 footer a:hover svg {
   color: gold; 
 }
+@media only screen and (max-width: 600px) {
+    .custom-footer{
+      padding-right:55px;
+      padding-bottom:100px;
+    }
+}
+@media only screen and (min-width: 600px) and (max-width:992px) {
+  .custom-footer{
+      padding-right:60px;
+      padding-bottom:100px;
+    }
+}
