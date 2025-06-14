@@ -15,6 +15,54 @@
       margin: 0;
     }
 
+    .navbar {
+    position: fixed;
+    width: 100%;
+    background: black;
+    z-index: 1000;
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    height: 85.1px;
+    box-sizing: border-box;
+}
+
+.navbar .logo {
+    width: 80px;
+    height: auto;
+    margin-right: auto; /* Posisikan logo di kiri */
+}
+
+.nav-center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style lainnya tetap sama */
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px;
+    transition: all 0.3s;
+}
+
+.nav-links a:hover {
+    color: gold;
+    border-bottom: 2px solid gold;
+    padding-bottom: 5px;
+}
     .contact-section {
       min-height: 100vh;
       display: flex;
@@ -60,7 +108,9 @@
 </head>
 <body>
 <nav class="navbar">
-    <div class="container">
+      <img src="./tubesimg/logo.png" alt="Logo Website" class="logo">
+
+    <div class="nav-center">
       <ul class="nav-links">
         <li><a href="home.html" class="active">HOME</a></li>
         <li><a href="guide.html">GUIDE</a></li>
