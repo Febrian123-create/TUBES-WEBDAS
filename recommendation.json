@@ -1,0 +1,66 @@
+[
+  {
+    "nama": "Osteria Francescana",
+    "lokasi": "Modena",
+    "rating": "Bintang 3 Michelin",
+    "deskripsi": "Restoran kelas dunia yang menyajikan makanan Italia klasik modern dari Chef Massimo Bottura.",
+    "menurekomendasi": "Lemon Tart",
+    "gambar": "restoran/osteria_francescana.jpg"
+  },
+  {
+    "nama": "Trattoria da Enzo al 29",
+    "lokasi": "Roma",
+    "rating": "Trattoria Klasik",
+    "deskripsi": "Makanan italia otentik di jantung Trastevere yang terkenal dengan pasta khas Roma.",
+    "menurekomendasi": "Carbonara",
+    "gambar": "restoran/da_enzo.jpg"
+  },
+  {
+    "nama": "Pizzeria Gino Sorbillo",
+    "lokasi": "Napoli",
+    "rating": "Pizzeria Legendaris",
+    "deskripsi": "Pusat pizza Neapolitan otentik yang terkenal di dunia.",
+    "menurekomendasi": "Pizza Margherita",
+    "gambar": "restoran/gino_sorbillo.jpg"
+  },
+  {
+    "nama": "Da Vittorio",
+    "lokasi": "Brusaporto, Lombardia",
+    "rating": "Bintang 3 Michelin",
+    "deskripsi": "Restoran elegan dengan sajian mewah dan bahan segar dari Italia Utara.",
+    "menurekomendasi": "Ravioli",
+    "gambar": "restoran/da_vittorio.jpg"
+  },
+  {
+    "nama": "Il Buco",
+    "lokasi": "Sorrento",
+    "rating": "Fine Dining",
+    "deskripsi": "Restoran dekat pantai yang menyajikan makanan laut dan pasta khas selatan Italia.",
+    "menurekomendasi": "Risotto seafood",
+    "gambar": "restoran/il_buco.jpg"
+  },
+  {
+    "nama": "La Pergola",
+    "lokasi": "Roma",
+    "rating": "Bintang 3 Michelin",
+    "deskripsi": "Restoran rooftop dengan pemandangan Roma, menawarkan pengalaman makan eksklusif.",
+    "menurekomendasi": "Fagottelli carbonara",
+    "gambar": "restoran/la_pergola.jpg"
+  },
+  {
+    "nama": "Trattoria Mario",
+    "lokasi": "Firenze",
+    "rating": "Trattoria Lokal",
+    "deskripsi": "Tempat makan sederhana favorit warga lokal.",
+    "menurekomendasi": "Bistecca alla Fiorentina",
+    "gambar": "restoran/trattoria_mario.jpg"
+  },
+  {
+    "nama": "Locanda Locatelli",
+    "lokasi": "Milan",
+    "rating": "Restoran Modern",
+    "deskripsi": "Restoran dengan sentuhan modern yang menampilkan makanan khas Milan.",
+    "menurekomendasi": "Risotto alla Milanese",
+    "gambar": "restoran/locanda_locatelli.jpg"
+  }
+]
