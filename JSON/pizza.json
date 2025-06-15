@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nama": "Pizza Margherita",
+    "tipe": "Pizza & Roti",
+    "img": "./tubesimg/pizzadanroti/pizzamargherita.jpg",
+    "history": "Created in 1889 for Queen Margherita to represent Italy's flag colors: red (tomato), white (mozzarella), green (basil).",
+    "ingredients": "Pizza dough, San Marzano tomatoes, fresh mozzarella, basil, olive oil",
+    "preparation": "1. Stretch dough. 2. Add tomato sauce. 3. Top with mozzarella. 4. Bake in wood oven. 5. Add fresh basil.",
+    "description": "The iconic Neapolitan pizza showcasing perfect simplicity: wood-fired crust, vibrant tomato sauce, fresh mozzarella, and basil. A culinary tribute to Italy's flag and the queen of pizzas."
+  },
+  {
+    "id": 2,
+    "nama": "Pizza Quattro Formaggi",
+    "tipe": "Pizza & Roti",
+    "img": "./tubesimg/pizzadanroti/pizzaquattroformaggi.jpg",
+    "history": "Originated in Lazio region as a way to showcase regional cheese varieties in one dish.",
+    "ingredients": "Pizza dough, mozzarella, gorgonzola, parmesan, fontina (or other local cheeses)",
+    "preparation": "1. Stretch dough. 2. Arrange cheeses in sections. 3. Bake until cheeses melt and bubble.",
+    "description": "A luxurious blend of four premium cheeses melting into perfect harmony on crisp pizza dough. Each bite delivers a symphony of creamy, tangy, and sharp flavors for true cheese connoisseurs."
+  },
+  {
+    "id": 3,
+    "nama": "Pizza Capricciosa",
+    "tipe": "Pizza & Roti",
+    "img": "./tubesimg/pizzadanroti/pizzacapricciosa.jpg",
+    "history": "Created in mid-20th century Rome, named 'capricious' for its varied toppings chosen by chef's whim.",
+    "ingredients": "Pizza dough, tomato, mozzarella, ham, mushrooms, artichokes, olives, egg",
+    "preparation": "1. Spread tomato base. 2. Add mozzarella. 3. Arrange other toppings. 4. Bake. 5. Add egg last minutes.",
+    "description": "The 'capricious' pizza featuring an artful arrangement of ham, mushrooms, artichokes, and olives crowned with a baked egg. A flavorful mosaic that changes with every bite."
+  },
+  {
+    "id": 4,
+    "nama": "Pizza Diavola",
+    "tipe": "Pizza & Roti",
+    "img": "./tubesimg/pizzadanroti/pizzadiavola.jpg",
+    "history": "Southern Italian pizza created to showcase spicy salami ('diavola' means 'devil' for its heat).",
+    "ingredients": "Pizza dough, tomato, mozzarella, spicy salami, chili flakes, olive oil",
+    "preparation": "1. Spread tomato base. 2. Add mozzarella. 3. Top with salami. 4. Sprinkle chili. 5. Bake.",
+    "description": "For those who like it hot! This fiery pizza features spicy salami and chili flakes on a tomato base - a devilishly good combination that lives up to its name with bold, intense flavors."
+  },
+  {
+    "id": 5,
+    "img": "italia.jpg"
+  },
+  {
+    "id": 6,
+    "nama": "Focaccia Genovese",
+    "tipe": "Pizza & Roti",
+    "img": "./tubesimg/pizzadanroti/focacciagenovese.jpg",
+    "history": "Ancient Ligurian bread dating to Roman times, originally cooked on hearth stones.",
+    "ingredients": "Flour, water, yeast, olive oil, salt, rosemary",
+    "preparation": "1. Make dough. 2. Let rise. 3. Dimple surface. 4. Drench with olive oil. 5. Bake until golden.",
+    "description": "Liguria's signature olive oil-rich bread with its characteristic dimpled surface. Perfectly crisp outside and pillowy inside, often fragrant with rosemary - a simple yet sublime Italian staple."
+  },
+  {
+    "id": 7,
+    "nama": "Piadina Romagnola",
+    "tipe": "Pizza & Roti",
+    "img": "./tubesimg/pizzadanroti/piadinaromagnola.jpg",
+    "history": "Traditional Romagna street food dating to Byzantine era, originally made with lard instead of oil.",
+    "ingredients": "Flour, lard (or olive oil), water, salt, filling (cheese, cured meats, greens)",
+    "preparation": "1. Make thin dough. 2. Cook on griddle. 3. Fill with ingredients. 4. Fold and serve warm.",
+    "description": "Emilia-Romagna's answer to the flatbread sandwich - warm, slightly chewy unleavened bread folded around delicious fillings. The ultimate portable Italian comfort food with endless variations."
+  },
+  {
+    "id": 8,
+    "nama": "Pane Carasau",
+    "tipe": "Pizza & Roti",
+    "img": "./tubesimg/pizzadanroti/panecarasau.jpg",
+    "history": "Ancient Sardinian shepherds' bread that could last for months during long periods tending flocks.",
+    "ingredients": "Durum wheat flour, yeast, salt, water",
+    "preparation": "1. Make thin dough. 2. Bake briefly. 3. Separate layers. 4. Re-bake until crisp.",
+    "description": "Sardinia's famous 'music paper bread' - incredibly thin, crisp sheets with a delicate texture. This ingenious preservation method created a durable yet delicious bread perfect for pairing with cheeses and meats."
+  },
+  {
+    "id": 9,
+    "nama": "Pizza Bianca",
+    "tipe": "Pizza & Roti",
+    "img": "./tubesimg/pizzadanroti/pizzabianca.jpg",
+    "history": "Roman specialty originally sold by weight as a snack, without toppings to highlight quality olive oil.",
+    "ingredients": "Pizza dough, olive oil, rosemary, sea salt",
+    "preparation": "1. Stretch dough. 2. Bake plain. 3. Brush with olive oil. 4. Sprinkle salt and herbs.",
+    "description": "Rome's minimalist masterpiece - crusty pizza dough brushed with finest olive oil and sprinkled with sea salt. The ultimate test of a pizzaiolo's skill, letting quality ingredients shine in their simplicity."
+  }
+]

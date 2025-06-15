@@ -1,53 +1,86 @@
 [
-    {
-        "nama": "Arancini",
-        "deskripsi": "Bola nasi goreng berlapis tepung roti emas, diisi dengan saus daging, keju mozzarella meleleh, atau kacang polong. Renyah di luar, lembut dan gurih di dalam.",
-        "img": "./tubesimg/antipasti/Arancini.jpg",
-        "tipe": "Side Dish"
-    },
-    {
-        "nama": "Bruschetta",
-        "deskripsi": "Irisan roti panggang yang renyah, disajikan dengan topping tomat segar, bawang putih, daun basil, dan siraman minyak zaitun extra virgin — pembuka klasik yang menyegarkan dan menggugah selera.",
-        "img": "./tubesimg/antipasti/Bruscheta.jpg",
-        "tipe": "Side Dish"
-    },
-    {
-        "nama": "Caprese Salad",
-        "deskripsi": "Paduan sempurna antara irisan tomat segar, mozzarella lembut, daun basil harum, dan tetesan minyak zaitun berkualitas tinggi. Salad khas Italia ini adalah simbol kesederhanaan yang elegan.",
-        "img": "./tubesimg/antipasti/caprase salad.jpg",
-        "tipe": "Side Dish"
-    },
-    {
-        "nama": "Carpaccio",
-        "deskripsi": "Irisan tipis daging sapi mentah pilihan, disajikan dengan saus lemon, keju parmesan, dan daun arugula. Hidangan yang halus, mewah, dan penuh rasa.",
-        "img": "./tubesimg/antipasti/Carpaccio.jpg",
-        "tipe": "Side Dish"
-    },
-    {
-        "img": "italia.jpg"
-    },
-    {
-        "nama": "Mozzarella in Carrozza",
-        "deskripsi": "Potongan roti isi keju mozzarella yang dilapisi tepung, digoreng hingga keemasan. Renyah di luar, lumer dan creamy di dalam — comfort food Italia sejati.",
-        "img": "./tubesimg/antipasti/Mozzarella in Carrozza.jpg",
-        "tipe": "Side Dish"
-    },
-    {
-        "nama": "Olive all’Ascolana",
-        "deskripsi": "Zaitun hijau besar yang diisi dengan daging cincang berbumbu, dilapisi tepung roti, lalu digoreng hingga renyah. Camilan premium dari wilayah Marche.",
-        "img": "./tubesimg/antipasti/Olive all’Ascolana.jpg",
-        "tipe": "Side Dish"
-    },
-    {
-        "nama": "Prosciutto e Melone",
-        "deskripsi": "Perpaduan kontras antara manisnya melon segar dan gurihnya prosciutto diiris tipis. Hidangan ini menghadirkan keseimbangan rasa yang tak tertandingi.",
-        "img": "./tubesimg/antipasti/Prosciutto e Melone.jpg",
-        "tipe": "Side Dish"
-    },
-    {
-        "nama": "Suppli",
-        "deskripsi": "Bola nasi goreng khas Roma dengan isian mozzarella di tengahnya. Saat digigit, kejunya meleleh dan memberikan kejutan yang menggoda.",
-        "img": "./tubesimg/antipasti/Suppli.jpg",
-        "tipe": "Side Dish"
-    }
+  {
+    "id": 1,
+    "nama": "Arancini",
+    "tipe": "Side Dish",
+    "img": "./tubesimg/antipasti/Arancini.jpg",
+    "history": "Originated in 10th century Sicily when Arabs introduced rice to the island. The name means 'little oranges' due to their shape and color.",
+    "ingredients": "Risotto rice, mozzarella, meat ragu, breadcrumbs, eggs, saffron, peas",
+    "preparation": "1. Form cold risotto into balls. 2. Insert mozzarella cube in center. 3. Coat in breadcrumbs. 4. Deep fry until golden brown.",
+    "description": "Golden fried rice balls with crispy breadcrumb coating, filled with meat sauce and melted mozzarella. A perfect harmony of crunchy exterior and savory, creamy interior - Sicily's iconic street food."
+  },
+  {
+    "id": 2,
+    "nama": "Bruschetta",
+    "tipe": "Side Dish",
+    "img": "./tubesimg/antipasti/Bruscheta.jpg",
+    "history": "Bruschetta originated in Italy during the 15th century as a way to salvage stale bread by toasting and rubbing it with garlic and olive oil.",
+    "ingredients": "Bread, tomatoes, garlic, fresh basil, olive oil, salt, pepper",
+    "preparation": "1. Toast slices of bread. 2. Rub with garlic. 3. Top with diced tomatoes, basil, olive oil, salt and pepper.",
+    "description": "Crispy toasted bread slices topped with fresh tomatoes, garlic, basil, and premium extra virgin olive oil. This classic appetizer offers a refreshing burst of Mediterranean flavors in every bite."
+  },
+  {
+    "id": 3,
+    "nama": "Caprese Salad",
+    "tipe": "Side Dish",
+    "img": "./tubesimg/antipasti/caprase salad.jpg",
+    "history": "Created in the 1950s on the island of Capri to showcase the colors of the Italian flag: green (basil), white (mozzarella), and red (tomatoes).",
+    "ingredients": "Fresh mozzarella, tomatoes, basil leaves, olive oil, balsamic glaze, salt",
+    "preparation": "1. Slice tomatoes and mozzarella. 2. Arrange alternately on a plate. 3. Add basil leaves. 4. Drizzle with olive oil and balsamic glaze.",
+    "description": "An elegant composition of fresh tomato slices, creamy mozzarella, and aromatic basil leaves drizzled with olive oil. This salad embodies the essence of Italian simplicity and freshness."
+  },
+  {
+    "id": 4,
+    "nama": "Carpaccio",
+    "tipe": "Side Dish",
+    "img": "./tubesimg/antipasti/Carpaccio.jpg",
+    "history": "Invented in 1950 at Harry's Bar in Venice for Countess Amalia Nani Mocenigo who needed to eat raw meat for health reasons.",
+    "ingredients": "Beef tenderloin, arugula, parmesan, lemon juice, olive oil, capers",
+    "preparation": "1. Freeze beef briefly. 2. Slice paper-thin. 3. Arrange on plate. 4. Top with arugula, shaved parmesan. 5. Drizzle with lemon-olive oil dressing.",
+    "description": "Exquisitely thin slices of premium raw beef adorned with fresh arugula, parmesan shavings, and a citrusy dressing. A sophisticated appetizer that celebrates the purity of high-quality ingredients."
+  },
+  {
+    "id": 5,
+    "img": "italia.jpg"
+  },
+  {
+    "id": 6,
+    "nama": "Mozzarella in Carrozza",
+    "tipe": "Side Dish",
+    "img": "./tubesimg/antipasti/Mozzarella in Carrozza.jpg",
+    "history": "A Neapolitan street food whose name means 'mozzarella in a carriage', referring to the bread encasing the cheese.",
+    "ingredients": "Mozzarella, bread, eggs, flour, anchovies (optional), olive oil",
+    "preparation": "1. Make mozzarella sandwiches. 2. Dip in egg mixture. 3. Fry until golden. 4. Serve hot.",
+    "description": "Golden fried mozzarella sandwiches with a crispy exterior that gives way to molten cheese perfection. This indulgent appetizer is the ultimate Italian comfort food with its irresistible contrast of textures."
+  },
+  {
+    "id": 7,
+    "nama": "Olive all'Ascolana",
+    "tipe": "Side Dish",
+    "img": "./tubesimg/antipasti/Olive all’Ascolana.jpg",
+    "history": "Originated in Ascoli Piceno (Marche region) in the 19th century as a way to use leftover meat from noble banquets.",
+    "ingredients": "Large green olives, ground meat, eggs, breadcrumbs, parmesan, lemon zest",
+    "preparation": "1. Pit olives. 2. Stuff with meat mixture. 3. Coat in breadcrumbs. 4. Deep fry until crispy.",
+    "description": "Plump green olives stuffed with seasoned meat, breaded and fried to golden perfection. These crispy bites from Marche region offer a delightful explosion of briny and savory flavors."
+  },
+  {
+    "id": 8,
+    "nama": "Prosciutto e Melone",
+    "tipe": "Side Dish",
+    "img": "./tubesimg/antipasti/Prosciutto e Melone.jpg",
+    "history": "A traditional summer dish from Northern Italy that combines the saltiness of cured ham with the sweetness of ripe melon.",
+    "ingredients": "Prosciutto di Parma, cantaloupe melon, black pepper",
+    "preparation": "1. Cut melon into wedges. 2. Wrap slices of prosciutto around melon. 3. Sprinkle with freshly ground black pepper.",
+    "description": "An exquisite pairing of sweet, juicy melon wrapped in delicate slices of salty prosciutto. This simple yet sophisticated appetizer perfectly balances contrasting flavors and textures."
+  },
+  {
+    "id": 9,
+    "nama": "Supplì",
+    "tipe": "Side Dish",
+    "img": "./tubesimg/antipasti/Suppli.jpg",
+    "history": "Created in Rome in the 19th century as a street food. The name comes from the French 'surprise' for the melted cheese center.",
+    "ingredients": "Rice, tomato sauce, mozzarella, eggs, breadcrumbs, ground beef",
+    "preparation": "1. Cook rice with tomato sauce. 2. Form into balls with mozzarella center. 3. Coat in breadcrumbs. 4. Deep fry.",
+    "description": "Roman-style rice croquettes with a molten mozzarella heart that creates the perfect cheese pull. These golden fried delights are Rome's answer to gourmet street food."
+  }
 ]

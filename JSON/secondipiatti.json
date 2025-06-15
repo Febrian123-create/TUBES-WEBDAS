@@ -1,53 +1,86 @@
 [
-    {
-        "nama": "Osso Buco",
-        "deskripsi": "Iga betis sapi muda yang direbus perlahan dalam saus anggur putih, tomat, dan mirepoix hingga dagingnya lepas dari tulang. Disajikan dengan gremolata segar sehingga menghadirkan lapisan rasa citrus yang harum.",
-        "img": "./tubesimg/secondipiatti/Osso Buco.jpg",
-        "tipe": "Secondi Piatti"
-    },
-    {
-        "nama": "Saltimbocca alla Romana",
-        "deskripsi": "Irisan tipis daging sapi dilapis prosciutto dan daun sage, dimasak cepat dengan beurre blanc anggur putih. Tekstur lembut, rasa gurih herba, dan aroma anggur berpadu memikat—benar-benar “melompat ke mulut” seperti namanya.",
-        "img": "./tubesimg/secondipiatti/Saltimbocca alla Romana.jpg",
-        "tipe": "Secondi Piatti"
-    },
-    {
-        "nama": "Pollo alla Cacciatora",
-        "deskripsi": "Potongan ayam dimasak lambat bersama saus tomat rustic, jamur, zaitun, bawang merah, dan rosemary. Kuahnya kental berempah, menciptakan comfort food klasik pedesaan Italia.",
-        "img": "./tubesimg/secondipiatti/Pollo alla Cacciatora.jpg",
-        "tipe": "Secondi Piatti"
-    },
-    {
-        "nama": "Bistecca alla Fiorentina",
-        "deskripsi": "T-bone sapi Toscana berukuran besar, dibakar di atas arang hanya dengan bumbu garam laut dan lada hitam. Hasilnya steak juicy dengan kerak karamelisasi sempurna dan aroma smoky yang khas.",
-        "img": "./tubesimg/secondipiatti/Bistecca alla Fiorentina.jpg",
-        "tipe": "Secondi Piatti"
-    },
-    {
-        "img": "italia.jpg"
-    },
-    {
-        "nama": "Vitello Tonnato",
-        "deskripsi": "Daging sapi muda yang dimasak perlahan, diiris sangat tipis, lalu diselimuti saus tuna, caper, dan mayones ringan. Hidangan dingin ini menawarkan kontras rasa gurih-creamy yang elegan.",
-        "img": "./tubesimg/secondipiatti/Vitello Tonnato.jpg",
-        "tipe": "Secondi Piatti"
-    },
-    {
-        "nama": "Fritto Misto di Mare",
-        "deskripsi": "Udang, cumi, dan ikan putih segar dilapisi tepung tipis, digoreng renyah keemasan, lalu ditaburi garam laut dan percikan lemon. Cita rasa laut Italia yang ringan dan crispy.",
-        "img": "./tubesimg/secondipiatti/Fritto Misto di Mare.jpg",
-        "tipe": "Secondi Piatti"
-    },
-    {
-        "nama": "Coda alla Vaccinara",
-        "deskripsi": "Ekor sapi direbus lama dalam saus tomat pekat, seledri, dan rempah-rempah khas Roma. Dagingnya empuk gelatinos, kuahnya kaya kolagen—sajian rustic nan mewah.",
-        "img": "./tubesimg/secondipiatti/Coda alla Vaccinara.jpg",
-        "tipe": "Secondi Piatti"
-    },
-    {
-        "nama": "Branzino al Forno",
-        "deskripsi": "Ikan branzino utuh dipanggang perlahan dengan irisan lemon, bawang putih, anggur putih, dan thyme. Daging ikan tetap lembut beraroma citrus-herba, cocok bagi pencinta hidangan laut yang ringan namun berkarakter.",
-        "img": "./tubesimg/secondipiatti/Branzino al Forno.jpg",
-        "tipe": "Secondi Piatti"
-    }
+  {
+    "id": 1,
+    "nama": "Osso Buco",
+    "tipe": "Secondi Piatti",
+    "img": "./tubesimg/secondipiatti/Osso Buco.jpg",
+    "history": "Milanese specialty dating to the 19th century, traditionally served with risotto alla milanese.",
+    "ingredients": "Veal shanks, white wine, broth, tomatoes, gremolata (lemon zest, garlic, parsley)",
+    "preparation": "1. Brown shanks. 2. Braise with wine and broth. 3. Serve topped with gremolata.",
+    "description": "Tender veal shanks braised to perfection in aromatic broth until the meat falls off the bone. The marrow-filled bone and citrusy gremolata topping create an unforgettable dining experience."
+  },
+  {
+    "id": 2,
+    "nama": "Saltimbocca alla Romana",
+    "tipe": "Secondi Piatti",
+    "img": "./tubesimg/secondipiatti/Saltimbocca alla Romana.jpg",
+    "history": "Created in Rome in the 1800s, the name means 'jumps in the mouth' referring to its bold flavors.",
+    "ingredients": "Veal cutlets, prosciutto, sage, white wine, butter",
+    "preparation": "1. Wrap veal with prosciutto and sage. 2. Sauté in butter. 3. Deglaze with wine.",
+    "description": "Delicate veal cutlets wrapped in prosciutto and sage, cooked in buttery white wine sauce. True to its name, this Roman specialty makes flavors 'jump in your mouth' with every bite."
+  },
+  {
+    "id": 3,
+    "nama": "Pollo alla Cacciatora",
+    "tipe": "Secondi Piatti",
+    "img": "./tubesimg/secondipiatti/Pollo alla Cacciatora.jpg",
+    "history": "Originated among Italian hunters who cooked game with ingredients they carried (herbs, tomatoes, wine).",
+    "ingredients": "Chicken, tomatoes, onions, herbs, olives, wine, bell peppers",
+    "preparation": "1. Brown chicken. 2. Sauté vegetables. 3. Simmer with wine and tomatoes until tender.",
+    "description": "Juicy chicken simmered in rustic tomato sauce with olives, herbs, and vegetables. This 'hunter-style' dish delivers hearty, comforting flavors that evoke Italian countryside cooking."
+  },
+  {
+    "id": 4,
+    "nama": "Bistecca alla Fiorentina",
+    "tipe": "Secondi Piatti",
+    "img": "./tubesimg/secondipiatti/Bistecca alla Fiorentina.jpg",
+    "history": "Traces to Medici Florence when butchers grilled leftover meats for workers on St. Lawrence's feast day.",
+    "ingredients": "T-bone steak (Chianina beef), olive oil, rosemary, salt",
+    "preparation": "1. Grill steak over wood/charcoal. 2. Season with salt and rosemary. 3. Serve rare.",
+    "description": "A magnificent T-bone steak from prized Chianina cattle, simply grilled over wood fire. This Florentine masterpiece celebrates the pure flavor of premium beef with minimal seasoning."
+  },
+  {
+    "id": 5,
+    "img": "italia.jpg"
+  },
+  {
+    "id": 6,
+    "nama": "Vitello Tonnato",
+    "tipe": "Secondi Piatti",
+    "img": "./tubesimg/secondipiatti/Vitello Tonnato.jpg",
+    "history": "Piedmontese dish from the 19th century combining French cooking techniques with Italian ingredients.",
+    "ingredients": "Veal, tuna, capers, mayonnaise, anchovies, lemon",
+    "preparation": "1. Poach veal. 2. Make tuna sauce. 3. Slice veal thin. 4. Cover with sauce and chill.",
+    "description": "Thinly sliced poached veal draped in creamy tuna-caper sauce. This elegant cold dish from Piedmont offers a surprising harmony of land and sea flavors."
+  },
+  {
+    "id": 7,
+    "nama": "Fritto Misto di Mare",
+    "tipe": "Secondi Piatti",
+    "img": "./tubesimg/secondipiatti/Fritto Misto di Mare.jpg",
+    "history": "Coastal dish from Southern Italy where small fish were quickly fried for fishermen's meals.",
+    "ingredients": "Mixed seafood (shrimp, squid, small fish), flour, lemon, olive oil",
+    "preparation": "1. Clean seafood. 2. Lightly coat in flour. 3. Deep fry. 4. Serve with lemon.",
+    "description": "An irresistible mix of fresh seafood lightly fried to golden crispiness. This coastal specialty showcases the bounty of the Mediterranean with its variety of textures and flavors."
+  },
+  {
+    "id": 8,
+    "nama": "Coda alla Vaccinara",
+    "tipe": "Secondi Piatti",
+    "img": "./tubesimg/secondipiatti/Coda alla Vaccinara.jpg",
+    "history": "Created by vaccinari (Roman butchers) who used less desirable cuts to make flavorful stews.",
+    "ingredients": "Oxtail, celery, tomatoes, pancetta, chocolate, pine nuts",
+    "preparation": "1. Brown oxtail. 2. Slow cook with vegetables. 3. Add cocoa for depth. 4. Serve with polenta.",
+    "description": "Rich oxtail stew slow-cooked until meltingly tender in tomato sauce with a surprising hint of chocolate. This Roman classic transforms humble ingredients into luxurious comfort food."
+  },
+  {
+    "id": 9,
+    "nama": "Branzino al Forno",
+    "tipe": "Secondi Piatti",
+    "img": "./tubesimg/secondipiatti/Branzino al Forno.jpg",
+    "history": "Mediterranean coastal dish reflecting Italy's simple preparation of fresh fish with local herbs.",
+    "ingredients": "Sea bass, lemon, herbs (rosemary, thyme), olive oil, potatoes",
+    "preparation": "1. Stuff fish with herbs/lemon. 2. Bake with potatoes. 3. Drizzle with olive oil.",
+    "description": "Whole Mediterranean sea bass baked to perfection with lemon and aromatic herbs. The moist, flaky flesh and crispy skin make this a showcase of Italian seafood simplicity."
+  }
 ]

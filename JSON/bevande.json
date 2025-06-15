@@ -1,53 +1,86 @@
 [
-    {
-        "nama": "Espresso",
-        "deskripsi": "Inti dari budaya kopi Italia—minuman hitam pekat yang diseduh cepat dan disajikan dalam cangkir kecil. Kaya, pahit, dan penuh karakter, espresso adalah fondasi dari hampir semua kopi Italia.",
-        "img": "./tubesimg/bevande/Espresso.jpg",
-        "tipe": "Drink"
-    },
-    {
-        "nama": "Caffè Macchiato",
-        "deskripsi": "Espresso kuat dengan sedikit (noda) susu panas berbusa. Perpaduan ringkas antara intensitas dan kelembutan, cocok untuk penikmat kopi sejati yang menginginkan sedikit kelembutan.",
-        "img": "./tubesimg/bevande/Caffè Macchiato.jpg",
-        "tipe": "Drink"
-    },
-    {
-        "nama": "Cappuccino",
-        "deskripsi": "Campuran seimbang antara espresso, susu panas, dan busa tebal di atasnya. Biasanya dinikmati pagi hari sebagai ritual sarapan ala Italia. Lembut, hangat, dan memanjakan.",
-        "img": "./tubesimg/bevande/Cappucino.jpg",
-        "tipe": "Drink"
-    },
-    {
-        "nama": "Limoncello",
-        "deskripsi": "Minuman keras manis berbahan dasar kulit lemon dari Pantai Amalfi. Dingin, cerah, dan menyegarkan—sering disajikan sebagai digestif setelah makan malam.",
-        "img": "./tubesimg/bevande/Limoncello.jpg",
-        "tipe": "Drink"
-    },
-    {
-        "img": "italia.jpg"
-    },
-    {
-        "nama": "Prosecco",
-        "deskripsi": "Anggur putih bersoda yang ringan dan elegan, berasal dari wilayah Veneto. Sering digunakan sebagai penyambut tamu atau dasar dalam koktail. Alternatif yang menyegarkan untuk champagne.",
-        "img": "./tubesimg/bevande/Prosecco.jpg",
-        "tipe": "Drink"
-    },
-    {
-        "nama": "Aperol Spritz",
-        "deskripsi": "Koktail oranye cerah yang memadukan Aperol, prosecco, dan soda air. Rasanya ringan, sedikit pahit, dan menyegarkan—favorit di sore musim panas Italia.",
-        "img": "./tubesimg/bevande/Aperol Spritz.jpg",
-        "tipe": "Drink"
-    },
-    {
-        "nama": "Grappa",
-        "deskripsi": "Minuman keras hasil distilasi ampas anggur setelah pembuatan wine. Kuat, beraroma tajam, dan sering disajikan sebagai digestif yang membangkitkan semangat.",
-        "img": "./tubesimg/bevande/Grappa.jpg",
-        "tipe": "Drink"
-    },
-    {
-        "nama": "Cioccolata Calda",
-        "deskripsi": "Cokelat panas ala Italia yang kental, pekat, dan creamy. Lebih menyerupai puding cair daripada minuman, cocok untuk pencinta cokelat sejati.",
-        "img": "./tubesimg/bevande/Cioccolata Calda.jpg",
-        "tipe": "Drink"
-    }
+  {
+    "id": 1,
+    "nama": "Espresso",
+    "tipe": "Drink",
+    "img": "./tubesimg/bevande/Espresso.jpg",
+    "history": "Invented in early 20th century Milan with the development of the espresso machine by Luigi Bezzera.",
+    "ingredients": "Finely ground coffee beans, water",
+    "preparation": "1. Pack grounds into portafilter. 2. Force hot water through under pressure. 3. Serve in small cup.",
+    "description": "The heart of Italian coffee culture - a concentrated shot of rich, aromatic coffee with perfect crema. This intense yet balanced brew is the foundation of Italy's daily rituals and social moments."
+  },
+  {
+    "id": 2,
+    "nama": "Caffè Macchiato",
+    "tipe": "Drink",
+    "img": "./tubesimg/bevande/Caffè Macchiato.jpg",
+    "history": "Created as a way to soften espresso's intensity for those who found it too strong, while maintaining its purity.",
+    "ingredients": "Espresso, small amount of steamed milk",
+    "preparation": "1. Pull espresso shot. 2. Add teaspoon of foamed milk to 'stain' the coffee.",
+    "description": "An espresso 'stained' with just a dash of steamed milk - the perfect middle ground between pure espresso and milky cappuccino. The small milk addition softens while preserving the coffee's bold character."
+  },
+  {
+    "id": 3,
+    "nama": "Cappuccino",
+    "tipe": "Drink",
+    "img": "./tubesimg/bevande/Cappucino.jpg",
+    "history": "Named after Capuchin monks whose brown robes matched the drink's color. Traditionally a morning drink in Italy.",
+    "ingredients": "Espresso, steamed milk, milk foam",
+    "preparation": "1. Pull espresso. 2. Add equal parts steamed milk. 3. Top with thick foam. 4. Sprinkle cocoa (optional).",
+    "description": "Italy's iconic breakfast drink - velvety espresso harmonized with steamed milk and luxurious foam. The perfect balance of strong coffee and creamy texture, traditionally enjoyed only before 11am."
+  },
+  {
+    "id": 4,
+    "nama": "Limoncello",
+    "tipe": "Drink",
+    "img": "./tubesimg/bevande/Limoncello.jpg",
+    "history": "Originated in early 1900s along the Amalfi Coast where Sorrento lemons grow abundantly.",
+    "ingredients": "Lemon zest, pure alcohol, sugar, water",
+    "preparation": "1. Steep lemon zest in alcohol. 2. Make sugar syrup. 3. Combine. 4. Age briefly. 5. Serve chilled.",
+    "description": "The vibrant yellow liqueur capturing the essence of Amalfi Coast lemons. Served ice-cold, this sweet-tart digestif delivers sunshine in every sip, perfect for ending a meal on a refreshing note."
+  },
+  {
+    "id": 5,
+    "img": "italia.jpg"
+  },
+  {
+    "id": 6,
+    "nama": "Prosecco",
+    "tipe": "Drink",
+    "img": "./tubesimg/bevande/Prosecco.jpg",
+    "history": "Produced since Roman times in Veneto, but modern sparkling version perfected in late 19th century.",
+    "ingredients": "Glera grapes, yeast (for secondary fermentation)",
+    "preparation": "1. Harvest grapes. 2. First fermentation. 3. Secondary fermentation in tank. 4. Bottle under pressure.",
+    "description": "Italy's answer to champagne - a lively, approachable sparkling wine with delicate bubbles and fruity notes. This versatile Veneto specialty ranges from dry to sweet, perfect for celebrations or casual aperitivo."
+  },
+  {
+    "id": 7,
+    "nama": "Aperol Spritz",
+    "tipe": "Drink",
+    "img": "./tubesimg/bevande/Aperol Spritz.jpg",
+    "history": "Created in 1919 in Padua, became popular in 1950s Venice as the quintessential pre-dinner drink.",
+    "ingredients": "Aperol, prosecco, soda water, orange slice",
+    "preparation": "1. Fill glass with ice. 2. 3 parts prosecco. 3. 2 parts Aperol. 4. Splash of soda. 5. Orange garnish.",
+    "description": "The iconic orange-hued Venetian aperitif - bittersweet Aperol blended with prosecco and soda. Served over ice with an orange slice, this refreshing low-alcohol cocktail embodies la dolce vita at sunset."
+  },
+  {
+    "id": 8,
+    "nama": "Grappa",
+    "tipe": "Drink",
+    "img": "./tubesimg/bevande/Grappa.jpg",
+    "history": "Dating to Middle Ages when Northern Italian farmers distilled leftover grape skins to avoid waste.",
+    "ingredients": "Pomace (grape skins/seeds/stems), water",
+    "preparation": "1. Ferment pomace. 2. Distill in copper stills. 3. Age in inert containers (or barrels for aged versions).",
+    "description": "Italy's fiery digestif made from grape pomace - clear and potent with complex aromas. This acquired taste ranges from harsh young versions to sophisticated aged varieties, traditionally sipped after meals to aid digestion."
+  },
+  {
+    "id": 9,
+    "nama": "Cioccolata Calda",
+    "tipe": "Drink",
+    "img": "./tubesimg/bevande/Cioccolata Calda.jpg",
+    "history": "Originated when chocolate arrived from Americas in 16th century, becoming a thick drinking chocolate by 18th century.",
+    "ingredients": "Dark chocolate, milk, cornstarch, sugar",
+    "preparation": "1. Melt chocolate. 2. Heat milk with cornstarch. 3. Combine until thick. 4. Whisk before serving.",
+    "description": "Italian hot chocolate redefined - an ultra-rich, almost pudding-like indulgence made with real chocolate. This luxurious winter treat is so thick your spoon might stand upright, offering pure chocolate decadence in every sip."
+  }
 ]

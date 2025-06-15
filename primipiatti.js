@@ -1,28 +1,29 @@
 document.addEventListener("DOMContentLoaded", () => {
   const gallery = document.getElementById("galleryList");
-
+  
   fetch("./JSON/primipiatti.json")
     .then(res => res.json())
     .then(data => {
-      data.slice(0, 10).forEach((item, index) => {
+      for(let i = 0; i <=8; i++){
         const card = document.createElement("div");
         card.className = "antipasti-card";
-        
-        if(index === 4) {
+
+        if(i === 4) {
           card.innerHTML = `
-            <img src="${item.img}" alt="${item.nama}">
+            <img src="${data[i].img}" alt="${data[i].nama}">
           `;
-        } else {
+        } 
+        else {
           card.innerHTML = `
-            <img src="${item.img}" alt="${item.nama}">
+            <img src="${data[i].img}" alt="${data[i].nama}">
             <div class="card-overlay">
-              <h3 class="card-title">${item.nama}</h3>
-              <p class="card-desc">${item.tipe}</p>
+              <h3 class="card-title">${data[i].nama}</h3>
+              <p class="card-desc">${data[i].tipe}</p>
             </div>
           `;
         }
         gallery.appendChild(card);
-      });
+      }
     })
     .catch(error => {
       console.error("Error loading gallery:", error);
@@ -33,4 +34,3 @@ document.addEventListener("DOMContentLoaded", () => {
       `;
     });
 });
-

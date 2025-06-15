@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#fffbe6;
+    color: #c9a66b;
+}
+
+header {
+    background-color: #fffbe6;
+    text-align: center;
+    padding: 180px 0px 20px 0px;
+    border-radius:10px;
+    --mask: /*from https://css-generators.com/wavy-shapes/*/
+    radial-gradient(67.08px at 50% calc(100% - 90px),#000 99%,#0000 101%) calc(50% - 60px) 0/120px 100%,
+    radial-gradient(67.08px at 50% calc(100% + 60px),#0000 99%,#000 101%) 50% calc(100% - 30px)/120px 100% repeat-x;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+header h1 {
+    color: black;
+    padding:40px;
+    font-size: 2em;
+}
+a{
+    color:gold
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    padding: 40px;
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+    background: black;
+    z-index: 1000;
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    height: 85.1px;
+    box-sizing: border-box;
+}
+
+.navbar .logo {
+    width: 80px;
+    height: auto;
+    margin-right: auto; /* Posisikan logo di kiri */
+}
+
+.nav-center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style lainnya tetap sama */
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px;
+    transition: all 0.3s;
+}
+
+.nav-links a:hover {
+    color: gold;
+    border-bottom: 2px solid gold;
+    padding-bottom: 5px;
+}
+.card {
+    background-color: #1e2626;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.card-content {
+    padding: 20px 20px 40px 30px;
+  
+}
+
+.card h2 {
+    margin-top: 0;
+    color: #f2d2a9;
+    text-align:center;
+}
+
+.card p {
+    font-size: 0.9em;
+    line-height: 1.4em;
+}
+
+.menu-khas {
+    margin-top: 10px;
+    margin-bottom:20px;
+    font-style: italic;
+    color: #ffd5a4;
+}
+
+.playfair-display-google {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 1;
+    font-style: normal;
+} 
+
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.5em;
+    }
+    .container {
+        padding: 20px;
+    }
+    }

@@ -1,53 +1,86 @@
 [
-    {
-        "nama": "Tiramisu",
-        "deskripsi": "Hidangan penutup klasik Italia yang lembut dan elegan, terbuat dari lapisan ladyfinger yang direndam espresso, krim mascarpone, dan taburan kakao. Setiap suapan menyuguhkan keseimbangan sempurna antara pahit, manis, dan creamy.",
-        "img": "./tubesimg/dolci/tiramisu.jpg",
-        "tipe": "Dessert"
-    },
-    {
-        "nama": "Gelato",
-        "deskripsi": "Es krim khas Italia yang lebih padat dan lembut dibandingkan es krim biasa. Tersedia dalam beragam rasa dari vanila murni hingga pistachio artisan—lebih sedikit udara, lebih banyak rasa.",
-        "img": "./tubesimg/dolci/gelato.jpg",
-        "tipe": "Dessert"
-    },
-    {
-        "nama": "Panna Cotta",
-        "deskripsi": "Puding susu khas Italia yang lembut dan halus, disajikan dengan saus buah segar atau karamel. Teksturnya kenyal dan lembut di lidah, cocok sebagai penutup yang ringan namun memuaskan.",
-        "img": "./tubesimg/dolci/pannacotta.jpg",
-        "tipe": "Dessert"
-    },
-    {
-        "nama": "Cannoli",
-        "deskripsi": "Tabung pastri goreng renyah yang diisi krim keju ricotta manis, sering dilengkapi dengan cokelat, pistachio, atau kulit jeruk. Makanan penutup dari Sisilia ini menyatukan tekstur kontras dan rasa autentik.",
-        "img": "./tubesimg/dolci/cannoli.jpg",
-        "tipe": "Dessert"
-    },
-    {
-        "img": "italia.jpg"
-    },
-    {
-        "nama": "Biscotti",
-        "deskripsi": "Kue kering dua kali panggang dengan kacang almond, cocok dicelupkan ke kopi atau anggur manis (vin santo). Renyah, tahan lama, dan sangat khas Italia Tengah.",
-        "img": "./tubesimg/dolci/biscotti.jpg",
-        "tipe": "Dessert"
-    },
-    {
-        "nama": "Panettone",
-        "deskripsi": "Roti manis bertekstur ringan khas Milan yang diisi dengan buah kering dan kismis. Umumnya disajikan saat Natal, tapi kelezatannya membuatnya layak dinikmati sepanjang tahun.",
-        "img": "./tubesimg/dolci/panettone.jpg",
-        "tipe": "Dessert"
-    },
-    {
-        "nama": "Torta della Nonna",
-        "deskripsi": "Kue tart klasik berisi custard vanila lembut, ditutup dengan lapisan kue renyah dan taburan kacang pinus. Simbol cinta dan resep keluarga khas Italia.",
-        "img": "./tubesimg/dolci/tortadellanonna.jpg",
-        "tipe": "Dessert"
-    },
-    {
-        "nama": "Sfogliatella",
-        "deskripsi": "Kue berlapis tipis menyerupai kulit kerang, diisi semolina manis, ricotta, dan aroma citrus. Cita rasa khas Napoli yang kaya tekstur dan kompleks dalam rasa.",
-        "img": "./tubesimg/dolci/sfogliatella.jpg",
-        "tipe": "Dessert"
-    }
+  {
+    "id": 1,
+    "nama": "Tiramisu",
+    "tipe": "Dessert",
+    "img": "./tubesimg/dolci/tiramisu.jpg",
+    "history": "Invented in 1960s Treviso, Veneto. The name means 'pick me up' referring to its coffee and alcohol content.",
+    "ingredients": "Ladyfingers, mascarpone, eggs, sugar, coffee, cocoa powder, marsala wine",
+    "preparation": "1. Dip ladyfingers in coffee. 2. Layer with mascarpone cream. 3. Dust with cocoa. 4. Chill overnight.",
+    "description": "The iconic Italian dessert featuring layers of coffee-soaked ladyfingers and velvety mascarpone cream. Each spoonful delivers the perfect balance of bitter coffee, sweet cream, and dusting of cocoa - truly a 'pick-me-up' for the senses."
+  },
+  {
+    "id": 2,
+    "nama": "Gelato",
+    "tipe": "Dessert",
+    "img": "./tubesimg/dolci/gelato.jpg",
+    "history": "Dating to Renaissance Florence where Bernardo Buontalenti created a frozen dessert for the Medici court.",
+    "ingredients": "Milk, sugar, egg yolks (for custard base), various flavors (fruit, nuts, chocolate)",
+    "preparation": "1. Make custard base. 2. Add flavorings. 3. Churn slowly. 4. Store at slightly warmer temp than ice cream.",
+    "description": "Italy's legendary frozen dessert with denser texture and more intense flavors than ice cream. Crafted with less air and fat, it delivers pure, vibrant tastes from pistachio to stracciatella in every creamy spoonful."
+  },
+  {
+    "id": 3,
+    "nama": "Panna Cotta",
+    "tipe": "Dessert",
+    "img": "./tubesimg/dolci/pannacotta.jpg",
+    "history": "Originated in Piedmont in the early 1900s as a simple farmer's dessert using fresh cream and gelatin.",
+    "ingredients": "Heavy cream, sugar, gelatin, vanilla, berry coulis or caramel sauce",
+    "preparation": "1. Heat cream with sugar. 2. Add gelatin. 3. Pour into molds. 4. Chill until set. 5. Serve with sauce.",
+    "description": "The ultimate in elegant simplicity - silky cooked cream set to delicate perfection. This Piedmontese classic wobbles seductively on the spoon, offering pure creamy indulgence often accompanied by fruit coulis."
+  },
+  {
+    "id": 4,
+    "nama": "Cannoli",
+    "tipe": "Dessert",
+    "img": "./tubesimg/dolci/cannoli.jpg",
+    "history": "Created in Palermo during Arab rule (9th-11th century), originally a Carnival treat symbolizing fertility.",
+    "ingredients": "Fried pastry shells, ricotta filling, chocolate chips, candied fruit, pistachios",
+    "preparation": "1. Make dough. 2. Roll and fry tubes. 3. Fill with sweetened ricotta. 4. Decorate ends.",
+    "description": "Sicily's iconic pastry - crisp fried shells filled with sweet ricotta, often studded with chocolate or pistachios. The perfect contrast of crunchy shell and creamy filling makes these impossible to eat just one."
+  },
+  {
+    "id": 5,
+    "img": "italia.jpg"
+  },
+  {
+    "id": 6,
+    "nama": "Biscotti",
+    "tipe": "Dessert",
+    "img": "./tubesimg/dolci/biscotti.jpg",
+    "history": "Dating to Roman times when they were practical for travelers and soldiers due to long shelf life.",
+    "ingredients": "Flour, sugar, eggs, almonds, anise (optional)",
+    "preparation": "1. Make dough log. 2. First bake. 3. Slice. 4. Second bake until dry. 5. Dip in vin santo wine.",
+    "description": "Twice-baked almond cookies with satisfying crunch, perfect for dipping in coffee or dessert wine. These durable treats from Prato showcase how simple ingredients transform into something extraordinary."
+  },
+  {
+    "id": 7,
+    "nama": "Panettone",
+    "tipe": "Dessert",
+    "img": "./tubesimg/dolci/panettone.jpg",
+    "history": "Milanese legend says it was created in the 15th century when a baker's cake was saved by adding fruit.",
+    "ingredients": "Flour, eggs, butter, candied fruit, raisins, sourdough starter",
+    "preparation": "1. Make enriched dough. 2. Add fruit. 3. Let rise for hours. 4. Bake in special paper mold.",
+    "description": "Milan's majestic Christmas bread - a towering dome of buttery, fruit-studded sweetness with feather-light texture. The slow fermentation creates complex flavors that make this holiday treat worth waiting for all year."
+  },
+  {
+    "id": 8,
+    "nama": "Torta della Nonna",
+    "tipe": "Dessert",
+    "img": "./tubesimg/dolci/tortadellanonna.jpg",
+    "history": "Tuscan dessert created in 1900s Florence, named for its home-style simplicity evoking grandmother's cooking.",
+    "ingredients": "Shortcrust pastry, custard cream, pine nuts, powdered sugar",
+    "preparation": "1. Line pan with pastry. 2. Add custard. 3. Top with pastry. 4. Sprinkle pine nuts. 5. Bake until golden.",
+    "description": "The quintessential 'grandmother's cake' - delicate pastry embracing smooth vanilla custard, topped with crunchy pine nuts. This Tuscan classic embodies the warmth and comfort of Italian home baking."
+  },
+  {
+    "id": 9,
+    "nama": "Sfogliatella",
+    "tipe": "Dessert",
+    "img": "./tubesimg/dolci/sfogliatella.jpg",
+    "history": "Created in 17th century at Santa Rosa monastery on Amalfi Coast, later popularized in Naples.",
+    "ingredients": "Layered dough, semolina ricotta filling, candied citrus, cinnamon",
+    "preparation": "1. Make many-layered dough. 2. Form into shells. 3. Fill with ricotta mixture. 4. Bake until crisp.",
+    "description": "Naples' legendary pastry with hundreds of crisp, flaky layers surrounding sweet ricotta filling. The labor-intensive 'lobster tail' shape reveals its monastic origins and Neapolitan pastry mastery in every shattering bite."
+  }
 ]

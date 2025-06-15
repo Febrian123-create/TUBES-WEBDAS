@@ -1,53 +1,86 @@
 [
-    {
-        "nama": "Spaghetti alla Carbonara",
-        "deskripsi": "Pasta spaghetti yang dimasak al dente, dilapisi saus krim telur, keju pecorino, lada hitam, dan pancetta renyah. Rasa gurih autentik dari Roma dalam setiap suapan.",
-        "img": "./tubesimg/primipiatti/Carbonara.jpg",
-        "tipe": "Primi Piatti"
-    },
-    {
-        "nama": "Lasagna alla Bolognese",
-        "deskripsi": "Lapis demi lapis pasta lembut, saus daging sapi kental, béchamel, dan keju parmesan panggang hingga keemasan. Sajian klasik yang kaya rasa dan memuaskan.",
-        "img": "./tubesimg/primipiatti/Lasagna.jpg",
-        "tipe": "Primi Piatti"
-    },
-    {
-        "nama": "Fettuccine Alfredo",
-        "deskripsi": "Fettuccine segar berpadu dengan saus krim lembut berbasis mentega dan keju parmesan. Hidangan yang creamy, halus, dan meleleh di mulut.",
-        "img": "./tubesimg/primipiatti/Fettuccine Alfredo.jpg",
-        "tipe": "Primi Piatti"
-    },
-    {
-        "nama": "Risotto ai Funghi",
-        "deskripsi": "Nasi arborio dimasak perlahan dalam kaldu hingga creamy, dipadukan dengan jamur porcini aromatik dan sentuhan keju parmesan. Aroma bumi dalam sajian elegan.",
-        "img": "./tubesimg/primipiatti/Risotto ai Funghi.jpg",
-        "tipe": "Primi Piatti"
-    },
-    {
-        "img": "italia.jpg"
-    },
-    {
-        "nama": "Penne all’Arrabbiata",
-        "deskripsi": "Pasta penne dalam saus tomat pedas yang menggigit, dengan bawang putih dan cabai merah kering. Sempurna untuk pecinta rasa tajam dan berani.",
-        "img": "./tubesimg/primipiatti/Penne all’Arrabbiata.jpg",
-        "tipe": "Primi Piatti"
-    },
-    {
-        "nama": "Tortellini in Brodo",
-        "deskripsi": "Tortellini mini berisi daging atau keju, disajikan dalam kaldu hangat yang jernih dan gurih. Hidangan tradisional yang menghangatkan jiwa dan raga.",
-        "img": "./tubesimg/primipiatti/tortellini.jpg",
-        "tipe": "Primi Piatti"
-    },
-    {
-        "nama": "Pasta Pesto Genovese",
-        "deskripsi": "Pasta pilihan dilumuri saus pesto segar dari basil, bawang putih, keju pecorino, dan kacang pinus, dihaluskan dengan minyak zaitun. Aroma Mediterania yang tak terlupakan.",
-        "img": "./tubesimg/primipiatti/Pasta Pesto.jpg",
-        "tipe": "Primi Piatti"
-    },
-    {
-        "nama": "Gnocchi al Pomodoro",
-        "deskripsi": "Pasta kentang empuk berbentuk kecil, diselimuti saus tomat segar dengan sentuhan daun basil. Teksturnya lembut, rasanya bersih dan menenangkan.",
-        "img": "./tubesimg/primipiatti/Gnocchi al Pomodoro.jpg",
-        "tipe": "Primi Piatti"
-    }
+  {
+    "id": 1,
+    "nama": "Spaghetti alla Carbonara",
+    "tipe": "Primi Piatti",
+    "img": "./tubesimg/primipiatti/Carbonara.jpg",
+    "history": "Created after WWII when American soldiers brought eggs and bacon to Rome, which Italian cooks combined with pasta.",
+    "ingredients": "Spaghetti, eggs, guanciale (cured pork cheek), pecorino cheese, black pepper",
+    "preparation": "1. Cook pasta. 2. Fry guanciale. 3. Mix eggs with cheese. 4. Combine all ingredients off heat to create creamy sauce.",
+    "description": "Al dente spaghetti enveloped in a luxurious sauce of egg yolks, pecorino cheese, and crispy guanciale. This Roman classic delivers rich, savory flavors with a perfect peppery finish."
+  },
+  {
+    "id": 2,
+    "nama": "Lasagna alla Bolognese",
+    "tipe": "Primi Piatti",
+    "img": "./tubesimg/primipiatti/Lasagna.jpg",
+    "history": "Originated in Emilia-Romagna, with the first recipe appearing in a 14th century cookbook from Naples.",
+    "ingredients": "Lasagna sheets, bolognese sauce, béchamel, parmesan, mozzarella",
+    "preparation": "1. Layer sheets with bolognese and béchamel. 2. Top with cheese. 3. Bake until bubbly and golden.",
+    "description": "Layers of tender pasta alternating with rich meat ragù, creamy béchamel, and melted cheeses, baked to golden perfection. The ultimate Italian comfort dish that satisfies every craving."
+  },
+  {
+    "id": 3,
+    "nama": "Fettuccine Alfredo",
+    "tipe": "Primi Piatti",
+    "img": "./tubesimg/primipiatti/Fettuccine Alfredo.jpg",
+    "history": "Invented in 1914 by Alfredo Di Lelio in Rome to help his pregnant wife regain her appetite.",
+    "ingredients": "Fettuccine, butter, parmesan, heavy cream, nutmeg",
+    "preparation": "1. Cook pasta. 2. Melt butter with cream. 3. Toss with pasta and cheese. 4. Add nutmeg to taste.",
+    "description": "Fresh fettuccine ribbons luxuriously coated in a velvety sauce of butter, cream, and aged parmesan. A decadent Roman creation that melts in your mouth with every forkful."
+  },
+  {
+    "id": 4,
+    "nama": "Risotto ai Funghi",
+    "tipe": "Primi Piatti",
+    "img": "./tubesimg/primipiatti/Risotto ai Funghi.jpg",
+    "history": "A Northern Italian dish from rice-growing regions, traditionally made with seasonal wild mushrooms.",
+    "ingredients": "Arborio rice, mushrooms, white wine, shallots, parmesan, butter, stock",
+    "preparation": "1. Sauté mushrooms and shallots. 2. Toast rice. 3. Deglaze with wine. 4. Slowly add stock while stirring.",
+    "description": "Creamy arborio rice cooked to perfection with earthy mushrooms, white wine, and parmesan. This northern Italian specialty offers comforting umami flavors in every spoonful."
+  },
+  {
+    "id": 5,
+    "img": "italia.jpg"
+  },
+  {
+    "id": 6,
+    "nama": "Penne all'Arrabbiata",
+    "tipe": "Primi Piatti",
+    "img": "./tubesimg/primipiatti/Penne all’Arrabbiata.jpg",
+    "history": "Roman dish whose name means 'angry' due to its spicy kick from chili peppers.",
+    "ingredients": "Penne, tomatoes, garlic, chili flakes, parsley, olive oil",
+    "preparation": "1. Sauté garlic and chili. 2. Add tomatoes. 3. Cook pasta. 4. Combine and garnish with parsley.",
+    "description": "Penne pasta tossed in a fiery tomato sauce infused with garlic and red chili flakes. This Roman classic lives up to its 'angry' name with a bold, spicy flavor profile."
+  },
+  {
+    "id": 7,
+    "nama": "Tortellini in Brodo",
+    "tipe": "Primi Piatti",
+    "img": "./tubesimg/primipiatti/tortellini.jpg",
+    "history": "Legend says the shape was inspired by Venus' navel in Modena, where this dish is a Christmas tradition.",
+    "ingredients": "Tortellini, chicken broth, parmesan, nutmeg",
+    "preparation": "1. Make tortellini with meat/cheese filling. 2. Simmer in rich broth. 3. Serve with grated parmesan.",
+    "description": "Delicate pasta parcels filled with meat or cheese, served in a clear, flavorful broth. This comforting dish from Emilia-Romagna warms both body and soul."
+  },
+  {
+    "id": 8,
+    "nama": "Pasta Pesto Genovese",
+    "tipe": "Primi Piatti",
+    "img": "./tubesimg/primipiatti/Pasta Pesto.jpg",
+    "history": "Originated in Genoa, with the first written recipe dating to 1863, though the technique is much older.",
+    "ingredients": "Pasta, basil, pine nuts, garlic, parmesan, pecorino, olive oil",
+    "preparation": "1. Make pesto by crushing ingredients. 2. Cook pasta. 3. Toss with pesto and pasta water.",
+    "description": "Al dente pasta coated in vibrant green pesto made from fresh basil, garlic, pine nuts, and premium cheeses. A taste of Liguria that captures the essence of summer."
+  },
+  {
+    "id": 9,
+    "nama": "Gnocchi al Pomodoro",
+    "tipe": "Primi Piatti",
+    "img": "./tubesimg/primipiatti/Gnocchi al Pomodoro.jpg",
+    "history": "Dating to Roman times, originally made with semolina. Potato version became popular after potatoes arrived from America.",
+    "ingredients": "Potatoes, flour, egg, tomato sauce, basil",
+    "preparation": "1. Make gnocchi dough. 2. Shape into dumplings. 3. Boil until they float. 4. Toss with tomato sauce.",
+    "description": "Pillowy soft potato dumplings served with a simple yet flavorful tomato basil sauce. These delicate gnocchi showcase the perfect balance of texture and taste."
+  }
 ]
