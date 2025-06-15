@@ -151,7 +151,7 @@ a{
     margin: 40px 0px 40px 80px;
 }
 .guide-section.reverse {
-    margin: 40px 80px 40px 0px;
+    padding: 40px 80px 40px 0px;
 }
 }
 @media only screen and (min-width: 733px) and (max-width:991px)
@@ -163,7 +163,7 @@ a{
     margin: 40px 0px 40px 100px;
 }
 .guide-section.reverse {
-    margin: 40px 120px 40px 0px;
+    padding: 40px 120px 40px 0px;
 }
 }
 @media only screen and (min-width: 992px) {
