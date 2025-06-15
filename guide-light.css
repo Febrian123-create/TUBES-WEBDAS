@@ -73,13 +73,13 @@ li{
 
 .hero-content h1 {
   font-size: 48px;
-  color: #f5d19b;
+  color: #2c2c2c;
   margin-bottom: 10px;
 }
 
 .hero-content p {
   font-size: 18px;
-  color: #ddd;
+  color:#2c2c2c;
 }
 
 .guide-container {
@@ -93,13 +93,13 @@ li{
   flex-wrap: wrap;
   gap: 40px;
   align-items: center;
-    background-color: #000;
+    background-color: #fffbe6;
   color: #fff;
 }
 
 .guide-section.reverse {
   flex-direction: row-reverse;
-    background-color: #0f1616;
+    background-color: #ffe7cc;
   padding:0px;
 }
 
@@ -118,6 +118,7 @@ a{
 .guide-text {
   flex: 1 1 400px;
   margin:40px 70px;
+  color: #2b1e16;
  
 }
 
@@ -130,7 +131,7 @@ a{
 .guide-text p, .guide-text ul {
   font-size: 18px;
   line-height: 1.6;
-  color: #eee;
+  color:#2b1e16;
 }
 
 .guide-text ul {
