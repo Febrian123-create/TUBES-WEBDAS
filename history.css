@@ -1,0 +1,142 @@
+body{
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color:#0f1616;
+}
+.history-container {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+
+}
+.food-detail {
+  background: #0f1616;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  padding: 2.5rem;
+  margin-bottom: 2rem;
+  margin-top: 80px;
+  padding: 2rem;
+}
+
+.food-detail h1 {
+  font-size: 2.5rem;
+  color: #f1c40f;
+  margin-bottom: 0.5rem;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+.food-type {
+  font-style: italic;
+  color: #fff;
+  text-align: center;
+  display: block;
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+}
+
+.food-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  margin-top: 2rem;
+}
+
+.food-content img {
+  flex: 1;
+  min-width: 300px;
+  max-height: 500px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.food-info {
+  flex: 1;
+  min-width: 300px;
+}
+
+.food-info h2 {
+  color: #c9a66b;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  border-bottom: 2px solid #f1c40f;
+  padding-bottom: 0.5rem;
+  display: inline-block;
+}
+
+.food-info p {
+  line-height: 1.8;
+  color: #fff;
+  margin-bottom: 1.5rem;
+}
+
+.loading-message {
+  text-align: center;
+  padding: 2rem;
+  color: #666;
+  font-style: italic;
+}
+
+.error-message {
+  text-align: center;
+  padding: 2rem;
+  color:#c9a66b;
+}
+
+.error-message a {
+  color: #e74c3c;
+  text-decoration: underline;
+}
+.back-button-container {
+  text-align: left;
+  color: #0f1616;
+  margin:0;
+}
+
+.back-button {
+  display: inline-flex;
+  align-items: center;
+  background: #f1c40f;
+  color: black;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.back-button:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(to right, #f27121, #e94057);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+}
+
+.back-button svg {
+  width: 1rem;
+  height: 1rem;
+}
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .food-content {
+    flex-direction: column;
+  }
+  
+  .food-detail h1 {
+    font-size: 2rem;
+  }
+  
+  .food-info h2 {
+    font-size: 1.3rem;
+  }
+}
