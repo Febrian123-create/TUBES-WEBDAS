@@ -130,6 +130,10 @@ body{
 
 /* Responsive Design */
 @media (max-width: 768px) {
+  .food-content>img{
+    max-width: 800px;
+    max-height: 300px;
+  }
   .food-content {
     flex-direction: column;
   }
