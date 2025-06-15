@@ -1,28 +1,36 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const list = document.getElementById("galleryList");
+  const gallery = document.getElementById("galleryList");
 
   fetch("./JSON/pizzadanroti.json")
     .then(res => res.json())
     .then(data => {
-      for(let i = 0; i <=10; i++){
-        const kotak = document.createElement("div");
-        kotak.className = "kotak";
-        if(i==4){
-            kotak.innerHTML = `
-            <img src="${data[i].img}">
-        `;
-        }
-        else{
-            kotak.innerHTML = `
-            <img src="${data[i].img}">
-            <p>${data[i].nama}</p>
-            <div class="hover-box">
-                <div class="plus-icon"></div>
-                <div class="hover-text">${data[i].deskripsi}</div>
+      data.slice(0, 10).forEach((item, index) => {
+        const card = document.createElement("div");
+        card.className = "antipasti-card";
+        
+        if(index === 4) {
+          card.innerHTML = `
+            <img src="${item.img}" alt="${item.nama}">
+          `;
+        } else {
+          card.innerHTML = `
+            <img src="${item.img}" alt="${item.nama}">
+            <div class="card-overlay">
+              <h3 class="card-title">${item.nama}</h3>
+              <p class="card-desc">${item.tipe}</p>
             </div>
-        `;
+          `;
         }
-        list.appendChild(kotak);
-      };
+        gallery.appendChild(card);
+      });
+    })
+    .catch(error => {
+      console.error("Error loading gallery:", error);
+      gallery.innerHTML = `
+        <div class="error-message">
+          <p>Failed to load content. Please try again later.</p>
+        </div>
+      `;
     });
 });
+

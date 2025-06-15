@@ -1,32 +1,38 @@
 [
     {
-        "tipe" : "Antipasti",
-        "nama" : "Bruschetta",
-        "img" : "./tubesimg/antipasti/Bruscheta.jpg"
+        "tipe": "Antipasti",
+        "nama": "Bruschetta",
+        "img": "./tubesimg/antipasti/Bruscheta.jpg",
+        "deskripsi": "Irisan roti panggang yang renyah, disajikan dengan topping tomat segar, bawang putih, daun basil, dan siraman minyak zaitun extra virgin — pembuka klasik yang menyegarkan dan menggugah selera."
     },
     {
-        "tipe" : "Primi Piatti",
-        "nama" : "Spaghetti alla Carbonara",
-        "img" : "./tubesimg/primipiatti/Carbonara.jpg"
+        "tipe": "Primi Piatti",
+        "nama": "Spaghetti alla Carbonara",
+        "img": "./tubesimg/primipiatti/Carbonara.jpg",
+        "deskripsi": "Pasta khas Roma yang dimasak dengan telur, keju pecorino, pancetta, dan lada hitam. Kaya rasa tanpa krim—tekstur lembut dan gurih autentik."
     },
     {
-        "tipe" : "Secondi Piatti",
-        "nama" : "Osso Buco",
-        "img" :"./tubesimg/secondipiatti/Osso Buco.jpg"
+        "tipe": "Secondi Piatti",
+        "nama": "Osso Buco",
+        "img": "./tubesimg/secondipiatti/Osso Buco.jpg",
+        "deskripsi": "Tulang sumsum sapi yang direbus perlahan dengan sayuran, anggur putih, dan kaldu. Dagingnya empuk, beraroma dalam, dan kaya rasa—hidangan khas Milan."
     },
     {
-        "tipe" : "Pizza & Roti",
-        "nama" : "Pizza Margherita",
-        "img" : "./tubesimg/pizzadanroti/pizzamargherita.jpg"
+        "tipe": "Pizza & Roti",
+        "nama": "Pizza Margherita",
+        "img": "./tubesimg/pizzadanroti/pizzamargherita.jpg",
+        "deskripsi": "Pizza klasik Italia dengan saus tomat, mozzarella segar, dan daun basil. Warna merah-putih-hijau mewakili bendera Italia—sederhana namun ikonik."
     },
     {
-        "tipe" : "Dolci",
-        "nama" : "Tiramisu",
-        "img" :"./tubesimg/dolci/tiramisu.jpg"
+        "tipe": "Dolci",
+        "nama": "Tiramisu",
+        "img": "./tubesimg/dolci/tiramisu.jpg",
+        "deskripsi": "Kue berlapis biskuit ladyfinger yang dicelup kopi, dilapisi krim mascarpone dan taburan kakao. Manis, lembut, dan menggugah selera—penutup favorit Italia."
     },
     {
-        "tipe" : "Bevande",
-        "nama" : "Espresso",
-        "img" : "./tubesimg/bevande/Espresso.jpg"
+        "tipe": "Bevande",
+        "nama": "Espresso",
+        "img": "./tubesimg/bevande/Espresso.jpg",
+        "deskripsi": "Inti dari budaya kopi Italia—minuman hitam pekat yang diseduh cepat dan disajikan dalam cangkir kecil. Kaya, pahit, dan penuh karakter, espresso adalah fondasi dari hampir semua kopi Italia."
     }
 ]

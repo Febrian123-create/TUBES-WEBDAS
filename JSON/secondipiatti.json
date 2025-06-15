@@ -1,45 +1,53 @@
 [
     {
-        "nama" :"Osso Buco",
-        "deeskripis" :"Iga betis sapi muda yang direbus perlahan dalam saus anggur putih, tomat, dan mirepoix hingga dagingnya lepas dari tulang. Disajikan dengan gremolata segar sehingga menghadirkan lapisan rasa citrus yang harum.",
-        "img" :"./tubesimg/secondipiatti/Osso Buco.jpg"
+        "nama": "Osso Buco",
+        "deskripsi": "Iga betis sapi muda yang direbus perlahan dalam saus anggur putih, tomat, dan mirepoix hingga dagingnya lepas dari tulang. Disajikan dengan gremolata segar sehingga menghadirkan lapisan rasa citrus yang harum.",
+        "img": "./tubesimg/secondipiatti/Osso Buco.jpg",
+        "tipe": "Secondi Piatti"
     },
     {
-        "nama" :"Saltimbocca alla Romana",
-        "deeskripis" :"Irisan tipis daging sapi dilapis prosciutto dan daun sage, dimasak cepat dengan beurre blanc anggur putih. Tekstur lembut, rasa gurih herba, dan aroma anggur berpadu memikat—benar-benar “melompat ke mulut” seperti namanya.",
-        "img" :"./tubesimg/secondipiatti/Saltimbocca alla Romana.jpg"
+        "nama": "Saltimbocca alla Romana",
+        "deskripsi": "Irisan tipis daging sapi dilapis prosciutto dan daun sage, dimasak cepat dengan beurre blanc anggur putih. Tekstur lembut, rasa gurih herba, dan aroma anggur berpadu memikat—benar-benar “melompat ke mulut” seperti namanya.",
+        "img": "./tubesimg/secondipiatti/Saltimbocca alla Romana.jpg",
+        "tipe": "Secondi Piatti"
     },
     {
-        "nama" :"Pollo alla Cacciatora",
-        "deeskripis" :"Potongan ayam dimasak lambat bersama saus tomat rustic, jamur, zaitun, bawang merah, dan rosemary. Kuahnya kental berempah, menciptakan comfort food klasik pedesaan Italia.",
-        "img" :"./tubesimg/secondipiatti/Pollo alla Cacciatora.jpg"
+        "nama": "Pollo alla Cacciatora",
+        "deskripsi": "Potongan ayam dimasak lambat bersama saus tomat rustic, jamur, zaitun, bawang merah, dan rosemary. Kuahnya kental berempah, menciptakan comfort food klasik pedesaan Italia.",
+        "img": "./tubesimg/secondipiatti/Pollo alla Cacciatora.jpg",
+        "tipe": "Secondi Piatti"
     },
     {
-        "nama" :"Bistecca alla Fiorentina",
-        "deeskripis" :"T-bone sapi Toscana berukuran besar, dibakar di atas arang hanya dengan bumbu garam laut dan lada hitam. Hasilnya steak juicy dengan kerak karamelisasi sempurna dan aroma smoky yang khas.",
-        "img" :"./tubesimg/secondipiatti/Bistecca alla Fiorentina.jpg"
+        "nama": "Bistecca alla Fiorentina",
+        "deskripsi": "T-bone sapi Toscana berukuran besar, dibakar di atas arang hanya dengan bumbu garam laut dan lada hitam. Hasilnya steak juicy dengan kerak karamelisasi sempurna dan aroma smoky yang khas.",
+        "img": "./tubesimg/secondipiatti/Bistecca alla Fiorentina.jpg",
+        "tipe": "Secondi Piatti"
     },
     {
-        "img":"italia.jpg"
+        "img": "italia.jpg"
     },
     {
-        "nama" :"Vitello Tonnato",
-        "deeskripis" :"Daging sapi muda yang dimasak perlahan, diiris sangat tipis, lalu diselimuti saus tuna, caper, dan mayones ringan. Hidangan dingin ini menawarkan kontras rasa gurih-creamy yang elegan.",
-        "img" :"./tubesimg/secondipiatti/Vitello Tonnato.jpg"
+        "nama": "Vitello Tonnato",
+        "deskripsi": "Daging sapi muda yang dimasak perlahan, diiris sangat tipis, lalu diselimuti saus tuna, caper, dan mayones ringan. Hidangan dingin ini menawarkan kontras rasa gurih-creamy yang elegan.",
+        "img": "./tubesimg/secondipiatti/Vitello Tonnato.jpg",
+        "tipe": "Secondi Piatti"
     },
     {
-        "nama" :"Fritto Misto di Mare",
-        "deeskripis" :"Udang, cumi, dan ikan putih segar dilapisi tepung tipis, digoreng renyah keemasan, lalu ditaburi garam laut dan percikan lemon. Cita rasa laut Italia yang ringan dan crispy.",
-        "img" :"./tubesimg/secondipiatti/Fritto Misto di Mare.jpg"
+        "nama": "Fritto Misto di Mare",
+        "deskripsi": "Udang, cumi, dan ikan putih segar dilapisi tepung tipis, digoreng renyah keemasan, lalu ditaburi garam laut dan percikan lemon. Cita rasa laut Italia yang ringan dan crispy.",
+        "img": "./tubesimg/secondipiatti/Fritto Misto di Mare.jpg",
+        "tipe": "Secondi Piatti"
     },
     {
-        "nama" :"Coda alla Vaccinara",
-        "deeskripis" :"Ekor sapi direbus lama dalam saus tomat pekat, seledri, dan rempah-rempah khas Roma. Dagingnya empuk gelatinos, kuahnya kaya kolagen—sajian rustic nan mewah.",
-        "img" :"./tubesimg/secondipiatti/Coda alla Vaccinara.jpg"
+        "nama": "Coda alla Vaccinara",
+        "deskripsi": "Ekor sapi direbus lama dalam saus tomat pekat, seledri, dan rempah-rempah khas Roma. Dagingnya empuk gelatinos, kuahnya kaya kolagen—sajian rustic nan mewah.",
+        "img": "./tubesimg/secondipiatti/Coda alla Vaccinara.jpg",
+        "tipe": "Secondi Piatti"
     },
     {
-        "nama" :"Branzino al Forno",
-        "deeskripis" :"Ikan branzino utuh dipanggang perlahan dengan irisan lemon, bawang putih, anggur putih, dan thyme. Daging ikan tetap lembut beraroma citrus-herba, cocok bagi pencinta hidangan laut yang ringan namun berkarakter.",
-        "img" :"./tubesimg/secondipiatti/Branzino al Forno.jpg"
+        "nama": "Branzino al Forno",
+        "deskripsi": "Ikan branzino utuh dipanggang perlahan dengan irisan lemon, bawang putih, anggur putih, dan thyme. Daging ikan tetap lembut beraroma citrus-herba, cocok bagi pencinta hidangan laut yang ringan namun berkarakter.",
+        "img": "./tubesimg/secondipiatti/Branzino al Forno.jpg",
+        "tipe": "Secondi Piatti"
     }
 ]
