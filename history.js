@@ -16,6 +16,10 @@
       .then(data => {
         const selectedFood = data.find(item => item.id == foodId);
         if (selectedFood) {
+          if(foodId == 4){
+            console.log(selectedFood)
+          }
+        else if(foodId !== 4){
           foodDetailContainer.innerHTML = `   
             <h1>${selectedFood.nama}</h1>
               <p class="food-type">${selectedFood.tipe}</p>
@@ -31,6 +35,7 @@
               </div>
             </div>
           `;
+        }
         } else {
           foodDetailContainer.innerHTML = "<p>Food item not found.</p>";
         }

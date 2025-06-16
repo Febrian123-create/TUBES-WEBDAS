@@ -33,7 +33,9 @@ document.addEventListener("DOMContentLoaded", () => {
         card.addEventListener("click", () => {
           localStorage.setItem("selectedFoodId", data[i].id); // Simpan ID
           localStorage.setItem("selectedCategory", currentPage);
+          if(i!==4){
           window.location.href = "history.html"; // Redirect
+          }
         });
         gallery.appendChild(card);
       };
