@@ -176,7 +176,7 @@ body{
       letter-spacing: 0px;
       transition: color 0.3s;
     }
-/* Responsive Design */
+
 @media (max-width: 768px) {
   .food-content {
     flex-direction: column;

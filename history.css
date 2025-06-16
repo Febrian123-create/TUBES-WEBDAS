@@ -128,7 +128,7 @@ body{
 }
 
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
   .food-content>img{
     max-width: 800px;

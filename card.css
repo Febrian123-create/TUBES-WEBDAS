@@ -37,7 +37,7 @@
     text-align: center;
 }
 
-/* Efek hover */
+
 .antipasti-card:hover .card-overlay {
     opacity: 1;
 }
@@ -64,7 +64,7 @@
     max-width: 90%;
 }
 
-/* Gaya untuk gallery container */
+
 .gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -74,7 +74,7 @@
     margin: 0 auto;
 }
 
-/* Gaya untuk card/kotak */
+
 .kotak {
     position: relative;
     width: 300px;
@@ -93,7 +93,7 @@
     backface-visibility: hidden;
 }
 
-/* Gaya untuk hover box */
+
 .hover-box {
     position: absolute;
     top: 50%;
@@ -114,7 +114,7 @@
     text-align: center;
 }
 
-/* Efek hover */
+
 .kotak:hover .hover-box {
     opacity: 1;
 }
@@ -124,7 +124,7 @@
     transform: scale(1.05);
 }
 
-/* Gaya teks */
+
 .recipe-name {
     font-family: 'Metropolis1920', sans-serif;
     font-size: 24px;

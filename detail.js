@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     'dolci': 'dolci.json',
     'bevande': 'bevande.json'
   };
-  // Cek apakah halaman ada dalam mapping
+  // Cek di dalam mapping ada halaman ga
   if (jsonFiles[currentPage]) {
     fetch(`./JSON/${jsonFiles[currentPage]}`)
       .then(res => res.json())
