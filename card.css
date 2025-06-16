@@ -1,4 +1,4 @@
-/* Gaya card */
+
 .antipasti-card {
     position: relative;
     width: 300px;
@@ -16,7 +16,7 @@
     border-radius: 10px;
 }
 
-/* Kotak hover fixed*/
+
 .card-overlay {
     position: absolute;
     top: 50%;
