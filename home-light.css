@@ -438,10 +438,6 @@ body {
 }
 
   @media only screen and (max-width: 768px) {
-  .navbar {
-    padding: 15px 20px;
-    flex-direction: column;
-  }
   
   .navbar .logo {
     width: 60px;
