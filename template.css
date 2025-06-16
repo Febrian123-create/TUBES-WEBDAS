@@ -19,7 +19,6 @@ body {
   gap: 20px;
   width: 80%;
   margin: auto;
-  grid-auto-flow: dense;
 }
 
 .kotak {

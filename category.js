@@ -7,12 +7,6 @@ document.addEventListener("DOMContentLoaded", () => {
       for(let i = 0; i <=10; i++){
         const kotak = document.createElement("div");
         kotak.className = "kotak";
-        if(i==-1){
-            kotak.innerHTML = `
-            <img src="${data[i].img}">
-        `;
-        }
-        else{
             kotak.innerHTML = `
             <img src="${data[i].img}">
             <p>${data[i].nama}</p>
@@ -21,7 +15,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 <div class="hover-text">${data[i].tipe}</div>
             </div>
         `;
-        }
         list.appendChild(kotak);
       };
     });
