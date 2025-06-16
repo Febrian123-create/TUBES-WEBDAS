@@ -8,7 +8,7 @@ body {
 .navbar {
     position: fixed;
     width: 100%;
-    background: rgba(253, 240, 213, 0.95);
+    background: #EAD7C1;
     z-index: 1000;
     padding: 20px 40px;
     display: flex;
@@ -75,7 +75,7 @@ body {
     }
 
     .form-label {
-      color: #c9a66b;
+      color: #ad8b50;
     }
 
     .btn-custom {

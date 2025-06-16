@@ -23,7 +23,7 @@ header h1 {
     font-size: 2em;
 }
 a{
-    color:gold
+    color:black;
 }
 .container {
     display: grid;
@@ -80,7 +80,7 @@ a{
     padding-bottom: 5px;
 }
 .card {
-    background-color: #1e2626;
+    background-color: #cdb293;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
@@ -94,12 +94,12 @@ a{
 
 .card-content {
     padding: 20px 20px 40px 30px;
-  
+    background-color:#cdb293;
 }
 
 .card h2 {
     margin-top: 0;
-    color: #f2d2a9;
+    color: #fff4cf;
     text-align:center;
 }
 
@@ -112,7 +112,7 @@ a{
     margin-top: 10px;
     margin-bottom:20px;
     font-style: italic;
-    color: #ffd5a4;
+    color: rgb(255, 229, 80);
 }
 
 .playfair-display-google {
