@@ -2,8 +2,8 @@
   {
     "nama": "Osteria Francescana",
     "lokasi": "Modena",
-    "rating": "Bintang 3 Michelin",
-    "deskripsi": "Restoran kelas dunia yang menyajikan makanan Italia klasik modern dari Chef Massimo Bottura.",
+    "rating": "3 Michelin Stars",
+    "deskripsi": "A world-class restaurant serving modern Italian classics by Chef Massimo Bottura.",
     "menurekomendasi": "Lemon Tart",
     "gambar": "restoran/osteria_francescana.jpg",
     "googlemaps": "https://maps.app.goo.gl/XAL5NWhrM9CBV2UR6"
@@ -11,8 +11,8 @@
   {
     "nama": "Trattoria da Enzo al 29",
     "lokasi": "Roma",
-    "rating": "Trattoria Klasik",
-    "deskripsi": "Makanan italia otentik di jantung Trastevere yang terkenal dengan pasta khas Roma.",
+    "rating": "Classic Trattoria",
+    "deskripsi": "Authentic Italian food in the heart of Trastevere, famous for its Roman-style pasta.",
     "menurekomendasi": "Carbonara",
     "gambar": "restoran/da_enzo.jpg",
     "googlemaps": "https://maps.app.goo.gl/sHmzQFGutNQSKDjH9"
@@ -20,8 +20,8 @@
   {
     "nama": "Pizzeria Gino Sorbillo",
     "lokasi": "Napoli",
-    "rating": "Pizzeria Legendaris",
-    "deskripsi": "Pusat pizza Neapolitan otentik yang terkenal di dunia.",
+    "rating": "Legendary Pizzeria",
+    "deskripsi": "A world-renowned destination for authentic Neapolitan pizza.",
     "menurekomendasi": "Pizza Margherita",
     "gambar": "restoran/gino_sorbillo.jpg",
     "googlemaps": "https://maps.app.goo.gl/g3LcENjNKUAtNWU16"
@@ -29,8 +29,8 @@
   {
     "nama": "Da Vittorio",
     "lokasi": "Brusaporto, Lombardia",
-    "rating": "Bintang 3 Michelin",
-    "deskripsi": "Restoran elegan dengan sajian mewah dan bahan segar dari Italia Utara.",
+    "rating": "3 Michelin Stars",
+    "deskripsi": "An elegant restaurant offering luxurious dishes with fresh ingredients from Northern Italy.",
     "menurekomendasi": "Ravioli",
     "gambar": "restoran/da_vittorio.jpg",
     "googlemaps": "https://maps.app.goo.gl/wqgAbKpfeRSX1TQKA"
@@ -39,25 +39,25 @@
     "nama": "Il Buco",
     "lokasi": "Sorrento",
     "rating": "Fine Dining",
-    "deskripsi": "Restoran dekat pantai yang menyajikan makanan laut dan pasta khas selatan Italia.",
-    "menurekomendasi": "Risotto seafood",
+    "deskripsi": "A seaside restaurant serving seafood and southern Italian pasta specialties.",
+    "menurekomendasi": "Seafood Risotto",
     "gambar": "restoran/il_buco.jpg",
     "googlemaps": "https://maps.app.goo.gl/mTFG6tzGPWWKf4bH6"
   },
   {
     "nama": "La Pergola",
     "lokasi": "Roma",
-    "rating": "Bintang 3 Michelin",
-    "deskripsi": "Restoran rooftop dengan pemandangan Roma, menawarkan pengalaman makan eksklusif.",
-    "menurekomendasi": "Fagottelli carbonara",
+    "rating": "3 Michelin Stars",
+    "deskripsi": "A rooftop restaurant with views of Rome, offering an exclusive dining experience.",
+    "menurekomendasi": "Fagottelli Carbonara",
     "gambar": "restoran/la_pergola.jpg",
     "googlemaps": "https://maps.app.goo.gl/fCFjMhVyxcbWfgbd9"
   },
   {
     "nama": "Trattoria Mario",
     "lokasi": "Firenze",
-    "rating": "Trattoria Lokal",
-    "deskripsi": "Tempat makan sederhana favorit warga lokal.",
+    "rating": "Local Trattoria",
+    "deskripsi": "A simple eatery loved by locals.",
     "menurekomendasi": "Bistecca alla Fiorentina",
     "gambar": "restoran/trattoria_mario.jpg",
     "googlemaps": "https://maps.app.goo.gl/NHMKAYpcoJZmBTs86"
@@ -65,8 +65,8 @@
   {
     "nama": "Locanda Locatelli",
     "lokasi": "Milan",
-    "rating": "Restoran Modern",
-    "deskripsi": "Restoran dengan sentuhan modern yang menampilkan makanan khas Milan.",
+    "rating": "Modern Restaurant",
+    "deskripsi": "A restaurant with a modern touch showcasing Milanese specialties.",
     "menurekomendasi": "Risotto alla Milanese",
     "gambar": "restoran/locanda_locatelli.jpg",
     "googlemaps": "https://maps.app.goo.gl/tUxCtcVkGf93cSZ47"

@@ -14,8 +14,8 @@ fetch("recommendation.json")
           <p><strong>Lokasi:</strong> ${resto.lokasi}</p>
           <p><strong>Rating:</strong> ${resto.rating}</p>
           <p>${resto.deskripsi}</p>
-          <p class="menu-khas"><strong>Menu Rekomendasi:</strong> ${resto.menurekomendasi}</p>
-          <a href = "${resto.googlemaps}">Klik Disini Untuk Melihat Lokasi restoran</a>
+          <p class="menu-khas"><strong>Recommended Menu:</strong> ${resto.menurekomendasi}</p>
+          <a href = "${resto.googlemaps}">Click Here to View the Restaurant Location</a>
         </div>
       `;
 
